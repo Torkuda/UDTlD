@@ -2,40 +2,45 @@
 ﻿UDTlD 
 =======
 
-Welcome to the Unofficial Daiteikoku Translation Division on Github!!
+(b)Welcome to the Unofficial Daiteikoku Translation Division on Github!!(/b)
 
 Please wait while I organise the stuff nice and proper and try plan this all out...
 
-Below was the original update page from googledocs
+Ok, I'm a little noob with github but I think I got stuff sorted.
 
-I have organised the document in chunks (the lines are organised in clicks ingame) so that it’s a little easier to add your edits wherever without messing other ppls work
+This is a pilot migration from googledocs in hopes to improve the flow of work for this translation project. 
 
-	Lines are organised like so:
+Although I personally like the synchronous access and discussion googledocs has, it has some difficulty notifying active changes unless users of the document are actively indicating their change.
 
-#######(line no. on txt file) Original Japanese text
-#######(line no. on txt file) Draft translation
+Rules for edits in repository:
 
-Comments, remarks, feedback, suggested lines of above line
+1a. All lines are still organised similar to googledocs:
+#(line no. on txt file) Original Japanese text
+#(line no. on txt file) Draft translation
 
-	b. If you plan on editing and changing something HIGHLIGHT IT with a different colour so everyone can see what you’ve added/changed. Add a highlight with a comment/remark on the change
+#Comments, remarks, feedback, suggested alternatives of above line
+
+I think Github gives people the option to comment or discuss on changes to the text without directly editing the file. If this is possible, please input via that medium rather than directly to the text.
 
 
-3. Those with edit rights, Be responsible.  Backups are made on my computer frequently but if someone decides to mess things up, it may be fucked forever - please edit responsibly. I’m trusting you....
+b. If you plan on editing and changing something HIGHLIGHT IT "#######" lots of hashtags so I am able to see the changes if I miss out or forget about the commit. I will review the final draft (when it's completed) and remove any unaddressed hashtag when the time comes
 
-4. Important updates, or things you WANT me to see must be written in the main update section below. News on my own or other ppls status can be written there as well. I might make a highlight colour legend there.
 
-5. Don’t forget to put your name on where your comments are so I know who the fuck I’m talkin to!
+2. The 'master' branch is now the main backup and should NOT be changed in anyway. I've created an 'Edit' branch where all changes and updates will be retained. The 'master' branch will merge with 'Edit' at regular intervals to prevent work loss and provide an extra source to revert to if there are severe technical issues.
 
-6. Lets keep this ball rollin and aim for 100% full translation!
+**In other words, all updates are on 'EDIT' branch
+
+
+3. Important updates, or things you WANT me to see or address must be written in the UPDATES.txt file located in repository. Accessible to anyone who wants to make a shoutout. I will not review or revert anything put in here
+
+4. If Github doesn't do it, don’t forget to put your name on where your comments are so I know who the fuck I’m talkin to!
+
+5. Lets keep this ball rollin and aim for 100% full translation!
 
 ___________________________________________________________________
-
-----------------
-MAIN UPDATE PAGE
-----------------
-Hi everyone, content still very raw. If you feel anything needs rephrasing, feel free to comment. Feel free to add your comments to this page. translated sentences are written as close to its japanese counterpart as possible to avoid loss of meaning but if you feel creative and are able to rephrase it and still fit within the alloted lines, feel free to do so!- Torky
-
+----------------------
 Our Primary Objective:
+----------------------
 1. To completely translate the CORE chapter. This includes:
 	Story and events in CORE chapter
 	All H-scenes in CORE chapter

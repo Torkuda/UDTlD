@@ -22,17 +22,11 @@ Lines 156575 - 156845 - CORE Prologue
 156581 sound strange, but I don’t trust my partners
 156582 You get what I mean, right?
 
-
-
  
 156583 オレとオマエは仲間だからな。
 156584 だからわかるだろうPrincess(ﾌﾟﾘﾝｾｽ)？
 156583 It’s because you and I are partners.
 156584 You understand, don’t you? Princess?
-
-
-
-
 
 
 156585 分かっているんだろうな？
@@ -141,7 +135,7 @@ He tried again and again. But to no avail
 He tried again and again. But he still couldn’t feel.
 He tried again. And again. But still the same thing.
 Hot. Cold. Pain. Itch. Tickle. He could not feel anything.
-                                                                                                                              
+                                                                                                                            	
 Hot. Cold. Pain. An Itch. Not even a tickle. He couldn’t feel a thing
  
 156617 なんだ？　一体どうなってる？
@@ -962,3 +956,4279 @@ As his mantle was leaving the room, Lincoln… King Core felt his back pinned by
 No idea
 
 ***last line***** 
+__________________________________
+
+169487 + 159827 - 159842  = Core Tutorial
+-------------------------------
+
+169487 キングコア編のマニュアルを表示しますか
+169487 Would you like to read the King Core Manual?
+
+Would you like to display the King Core Manual?
+Would you like to see the King Core chapter/mode/edition Tutorial?
+
+
+159827 キングコア編は、現存戦力のみで全星域の占領を
+159828 目指すゲームです。
+159829 本編とは一部ルールが異なります。
+159827 In King Core mode, the objective is to 
+159828 occupy all star regions.
+159829 Some of the rules are different from the main story
+
+
+In King Core mode/edition, the objective is to occupy all star regions. Part of the rules are different from the main story
+
+
+159830 1.HPが回復しません:
+159831 　修理工場もなく、星域に駐留させても
+159832 　HPは一切回復しません。
+159830 1. There is no HP recovery: 
+159831 　Stationing in star regions and Repair shops
+159832 　also do notrecover HP
+
+
+159833 2.HPが減少していても侵攻が可能:
+159834 　本編ではHPが減少していると侵攻できませんが、
+159835 　キングコア編ではその制限はありません。
+159833 2. HP is decreased but attacking is still possible: 
+159834 　All original units’ HP are decreased and will never invade
+159835 　King Core is not affected by this rule
+
+2. HP is decreased but attacking is still possible: (Units in) Original story HP has been decreased and they will never invade. King Core is not affected by this rule
+
+
+159836 3.星域収入、造船、開発がありません:
+159837 　開始時に保有している艦船のみを、
+159838 　運用していきます。
+159836 3. There is no star region income, building or research:
+159837 　The warships you start with are the only ones you have,
+159838 　make full use of them.
+
+
+159839 4.キングコアのHPが0になるとゲームオーバー:
+159840 　戦闘に参加させる時は、
+159841 　残りHPに気をつける必要があります。
+159839 4.If King Core’s HP reaches 0, Game over:
+159840 　Keep careful watch on his HP 
+159841 　when using him in battles.
+
+159842 マニュアルは以上です。
+159842 This is the end of the manual.
+
+
+***last line****
+
+_____________________________________________________
+
+1st turn - 93073 - 93147 - Attacking Hawaii first 
+_______________________________________________
+
+93073 ハワイ星域――
+93073 Hawaii Star Region-
+
+
+93074 星域のはずれにある、小さな惑星基地。
+93075 旧ガメリカ軍ですらその存在を忘れて久しい
+93076 古い要塞だが、ここに何故か明かりが灯っていた。
+93074 At the outskirts of the star region is a small planet base.
+93075 An abandoned fort resides within the former Gamerican army.
+93076 It appears that someone has lit a light in it.
+
+At the outskirts of the star region is a small planet base. Within the old Gamerikan forces there is forgotten ancient fortification. Inside it, for some reason there is a light in it.
+
+
+93077 ……ひっくしゅん。
+93077 ……Achoo
+*sneeze*
+
+
+93078 暖房入れたら、廃熱で人が住んでるって
+93079 ばれちゃうのはわかるけど……
+93080 これじゃ凍えて死んじゃうよぉ……
+93078 The heat will help me keep warm
+93079 I might risk being discovered in here but...
+93080 I’m about to freeze to death...
+
+By turning on the heat, I might risk being discovered in here but… I’m about to freeze to death
+ 
+
+93081 　
+93082 　　…………ガタッ。
+93081 　
+93082 　　…………Knock.
+
+
+
+
+
+93083 Hiii……？！
+93084 Wh-Who is it?! Don’t move, Raise your hands up!
+
+Hiii! Wh-Who is it? Freeze, raise your hands!
+
+
+93085 落ち着け、キャロル。俺だ。
+93085 Relax, Carol. It’s me
+
+
+93086 な……なんだ、わっしぃか……
+93087 驚かさないでよ、もう……
+93086 Oh-… Ohh, my god……
+93087 Don’t scare me like tha, jeez…
+
+Oh-… Ohh, phew…… Don’t scare me like that…
+ 
+
+93088 で、どうだった？
+93089 食料とか燃料は……
+93088 So? How are we
+93089 on food and fuel?
+
+
+93090 ダメだ。ＣＯＲＥに抑えられてる。
+93091 ハワイの中じゃもう補給は無理だ。
+93090 Not good. Core has seized it all
+93091 It’s impossible to get supplies in Hawaii。
+ 
+93092 ……そう……
+93092 ……I see……
+
+
+93093 俺たちを逃がすために散っていった
+93094 将兵たちの命……無駄にする訳には
+93095 いかない。
+93093 The officers and men sacrificed their lives
+93094 for our sake to help us escape……
+93095 What a tragic waste.
+
+
+
+
+
+
+
+93096 たとえ可能性が低くても、
+93097 生き残れる道を取るしかない。
+93096 Even if it was a slim chance,
+93097 we’no choice but to take it
+
+Even if the possibility of survival is low, we’no choice but to take it
+ 
+ 
+93098 脱出艇に残ったわずかな燃料で、
+93099 ワープゲート越えを狙う、か……
+93098 With the little fuel we have remaining、
+93099 we could try get to the warp gate...
+
+With the little fuel remaining in our escape vessel, we could try get to the warp gate
+
+
+93100 ワープゲートへ辿り着く前に
+93101 ＣＯＲＥの偵察隊に見つかれば
+93102 一巻の終わり。
+93100 It’s the end of the line
+93101 if we get caught by the CORE scouts 
+93102 before reaching the warp gate
+
+Before getting to the Warp Gate, the CORE scouts will discover us and it’ll be the end of the line
+It’s the end of the line/We’re finished if we get caught by the CORE scouts before getting to the warp gate
+ 
+
+93103 たとえ見つからなくても
+93104 燃料切れでゲートに届かず
+93105 宇宙を漂流するかもしれない……
+93103 Even if we’re not discovered,
+93104 we’ll run out of fuel and
+93105 might end up drifting in the space...
+
+Even if we’re not discovered, we’ll run out of fuel and might end up drifting in the universe
+
+93106 よしんばワープできたとしても、
+93107 元ガメリカ指揮官の俺や君を
+93108 他国が拾ってくれるかどうか……
+93106 And even if we could warp,
+93107 I have my doubts if any of the foreign nations will 
+93108 pick up the president of Gamerica...
+
+ 
+Even if we could warp, I don’t know whether any of the foreign nations will pick up the president of Gamerika
+ 
+93109 今から心配してもしょーがないよ。
+93110 それしかないんだし、やってみよ。
+93109 Now is not the time to worry about such things.
+93110 We have no choice, let’s give it a go
+
+This is not the time to worry about such things. We have no choice, let’s just try it.
+ 
+
+93111 とっくの昔に、覚悟はしてる。
+93112 あたしの命、わっしぃに預けるよ。
+93111 A long time ago, I made a resolution.
+93112 I would entrust my life to you
+
+A long time ago, I made a resolution. I would give my life to you
+ 
+93113 ……すまん。
+93113 ……I’m sorry.
+
+
+93114 「ゲッゲッゲ……おいおい、そこの色男。
+93115 　俺たちのMamに危険な真似させんじゃねェよ……」
+93114 「He he he… Hey Hey, Look at this lover boy。
+93115 　Looks like our Mam is in some ‘peril’...」
+ Gegege… Oi Oi, This lover boy/lady killer. Looks like our Mam is in some ‘peril’.
+
+
+93116 ――っ？！　なっ…………
+93116 ――っ？！　Wha-…………
+
+93117 「苦労したんだぜ？　用心深いお前の後ろを
+93118 　気付かれないよう尾行するのはよ…………」
+93117 「Aren’t you in a bit of a pickle?　Didn’t watch 
+93118 　your back and notice us following you did you…………」
+
+
+Aren’t you in trouble? You weren’t carefully watching your back and didn’t notice us following you
+Aren’t you in a bit of a pickle? Didn’t watch your back and notice us following you did you
+ 
+93119 ちいっ、俺としたことが……っ？！
+93120 そこかっ！！
+93119 Damn、Me of all people to screw up……っ？！
+93120 Over there!!
+
+
+Chiii (literal translation) – My language there’s a term similar to this – Cis!
+Fuck, me of all people…! Over there!
+ 
+
+93121 ダグラスは声のした方を振り返りつつ、
+93122 左脇のホルスターから拳銃を引き抜く。
+93121 While Douglas turned to face the direction of the voice、
+93122 he pulled his pistol out from his left shoulder holster
+
+Douglas turned to face the direction of the voice while he took his pistol out from his left shoulder holster
+
+93123 　
+93124 　　――があんっ！
+93123 　
+93124 　　――BANG！
+
+93125 ………………
+93125 ………………
+
+93126 な、っ…………で…………
+93126 Wha-…………The…………
+
+
+
+93127 腹部に巨大な穴を空け、内臓と血をまき散らして
+93128 ダグラスが床に倒れ込む。
+93127 A large hole open at his abdomen, blood and guts splattered
+93128 where Douglas collapsed on the floor
+ 
+93129 人間の腕力では絶対扱えない、
+93130 大口径の火器による一撃だった。
+93129 A normal human’s physical strength would not
+93130 have been able to handle such a blast by that large caliber gun.
+
+
+
+ 
+93131 おや、たった一発で終わりか。
+93132 脆いねェ、ニンゲンってのは……
+93131 Oh my, Just one shot ended it?
+93132 Humans are so fragile...
+
+93133 ――ぁ、っ――
+93133 ――ah、っ――
+
+ 
+
+93134 わ、っし……ぃ……？
+93135 うそ、そんな……うそ……
+93134 I- gasp………？
+93135 This... This can’t be happening....
+
+I- I………? This can’t be… It can’t be…
+Gasp …….. ? This can’t be…… It’s a lie…
+
+ 
+
+93136 い、や……いやあああああああっ！！！！
+93137 わっしぃ！　わっ……ダグ！　ダグっ！
+93138 いやあああっ！　あああああっ…………！
+93136 N- NOOOOOOO!!!! 
+93137 Gasp! Doug! Doug!
+93138 NOOOOOOO! AHHHH….!!!
+
+93139 おいおい、何で泣いてんだ？
+93140 アンタを危険な目に遭わせようとした
+93141 ろくでなしをブッ殺してやったんだぜ？
+93139 Hey, Why are you crying? 
+93140 We fucked up that bastard
+93141 who was putting you in danger didn’t we？
+
+Oi, Why are you crying? We killed that good-for-nothing guy who was giving you trouble didn’t we?
+
+
+
+
+
+
+
+
+
+93142 さ、俺たちと一緒に来な。
+93143 アンタは俺たちを目覚めさせてくれた
+93144 大切なMamなんだ……
+93142 Hey, why don’t you come with us?
+93143 You can become our
+93144 extra precious Mam
+
+Hey, come with us. You can be our precious Mam.
+
+
+93145 特別扱いだよ、ＶＩＰってヤツだ。
+93146 たっぷり可愛がってやるからよ。
+93147 ゲッゲ、ゲッゲッゲ……！
+93145 We’ll give you special treatment, VIP service.
+93146 We’ll take real good care of you.
+93147 He He He He!
+
+****last line*****
+--------------------------------
+
+Edit suggestion – Change Mam to My lady
+Carol Event 1 – Playing pool- 123370 - 123631 **NSFW**
+ -----------------------------
+
+123370 ＵＳＪ星域、
+123371 ＣＯＲＥ基地の地下――
+123370 USJ Star Region,
+123371 CORE underground base
+
+123372 オラッ、こっちに来な。
+123372 Hey、Come on over here。
+ 
+Ora, Come over here
+ 
+
+123373 ああっ！　やだっ……！
+123374 放して、放しなさいよっ……！
+123373 Ah! No way…!!
+123374 Let go, Release me…!!
+
+
+
+
+
+
+
+123375 そんなにイヤそうなカオするなよ、
+123376 俺たちのMam……
+123375 Don’t be so unhappy,
+123376 Mam...
+
+In Manglish it’d make sense : Don’t be like that la, Our Mam
+Don’t be so unhappy, Mam
+
+ 
+123377 今日もトリップするほど
+123378 気持ちよくしてやるからよ。
+123379 クククッ、ククククッ！
+123377 Today we’re gonna make 
+123378 you feel reaaaaal good!。
+123379 Ku Ku Ku Ku!
+
+123380 そのＣＯＲＥは、脅えるキャロルの眼前に
+123381 ゴツゴツとしたペニスの形を模した張り型を
+123382 突き出し見せつける。
+123380 The CORE member brandished a 
+123381 beady phallic shaped object 
+123382 before Carol’s frightened eyes
+
+The CORE member brandished a beady/lumpy/ribbed phallic shaped object before Carol’s frightened eyes.
+ 
+
+123383 ひっ……な、何これ、っ……
+123383 Hiii… Wh- What is that……
+ 
+ 
+123384 おや？　このキノコみてぇな形見たら
+123385 誰だって想像つくと思うが。
+123384 Oh? Don’t you have the imagination to guess
+123385 what this mushroom memento could be?
+
+123386 脅えおののくキャロルの前で、
+123387 ＣＯＲＥは張り型のスイッチをＯＮにした。
+123386 Carol trembled in fear as the
+123387 CORE member switched on the phallic device.
+ 
+123388 と、張り型はブウゥン……と音を鳴らして
+123389 細かく激しく震えだす。
+123388 The phallic device made a
+123389 humming sound and vibrated
+123390 こいつをMamの股にある穴にブッ込むのさ。
+123391 気持ちよさそうだろ？
+123390 This thing is gonna be SHOVED in Mam’s pussy
+123391 It’s gonna feel great ya know??
+This thing is gonna be SHOVED in Mam’s ‘crotch hole’. It’s gonna make you feel good
+This thing is gonna be shoved in Mam’s pussy/vagina. It’s gonna feel great ya know??
+
+123392 や、やだ……やだ、そんなっ……！
+123393 やめて、やめ……やだ、いやああっ！
+123392 N- No… No… Not that…… 
+123393 Stop, Don-…… No! Nooo!
+
+
+123394 キャロルは身体を捩って抵抗するが、
+123395 ＣＯＲＥは力尽くで押さえつけ、張り型の先端を
+123396 膣内へとめりこませていく。
+123394 Carol tried to twist away as the
+123395 CORE member forcefully plunged the tip of
+123396 the phallic device into her vagina.
+
+ 
+123397 ああっ…ぐっ！
+123398 うあぁっ！　がっ、ああああっ！！
+123397 Aaaaa.. Guh…!
+123398 Uaaa! Gahhhhh!!!!
+
+
+
+123399 おや？　潤滑剤は塗ってたはずなんだが
+123400 ……ヘイ、Mam。ひょっとしてバージンか？
+123399 Oh? I’ve put the lubricant on but
+123400 ...Hey, Mam. Are you a virgin by any chance?
+
+Oh? I’ve put the lubricant on but… Hey, Mam. Are you a virgin by any chance?
+ 
+123401 そ……うよ、この、っ……！
+123402 だから、何よ……何なのよっ……！
+123401 Y-… Yea… So what?!
+123402 What’s it to you?
+
+Y-… Yea… So what? So what if I am?
+ 
+
+
+123403 ヒュー。こりゃいいこと聞いた。
+123404 ますます面白くなってきたぜ。
+123403 Whoo! That’s music to my ears.
+123404 This is getting more and more entertaining.
+
+
+123405 張り型を強引に中程まで押し入れると、
+123406 ＣＯＲＥはキャロルの腰から股間にかけて
+123407 鉄の器具を回し、バイブが抜けないよう固定する。
+123405 With the phallic device shoved in halfway,
+123406 the Core member wrapped an iron contraption around her 
+123407 waist that kept the vibrator from coming out.
+
+With the phallic device shoved in halfway, the Core member wrapped an iron contraption around her waist and nether regions. It kept the vibrator from coming out.
+
+123408 こ、んな……こと、して……
+123409 何が楽しいのよ、あなたたちはっ……！
+123408 Th-… What you’re doing… 
+123409 How can you all be entertained by this!
+
+123410 勘違いするな、コイツはまだ下準備だ。
+123411 俺たちの楽しみはここから始まるのさ。
+123410 It ain’t over yet, we’ve only just started.
+123411 The real fun’s gonna begin now.
+
+Don’t misunderstand, this is just the beginning. Our fun will begin from here.
+
+123412 さあ、プール遊びにご招待だ。
+123413 きっとMamも気に入ってくれるぜ……！
+123412 Now, you’ve been invited to the playing pool.
+123413 Mam’s definitely gonna love this!
+ 
+123414 円筒形に掘り下げられた場所の真ん中に、
+123415 キャロルは鎖で繋がれ、放置される。
+123414 Carol is alone, shackled inside a large
+123415 cylinder placed in the middle of the room.
+
+A large cylindrical tank is placed in the middle of the room. Carol is shackled alone inside it.
+
+123416 ＣＯＲＥはキャロルが拘束されている鎖の上、
+123417 強化ガラスで仕切られた別室から
+123418 キャロルの様子を見下ろしていた。
+123416 Above, where Carol’s chains are connected
+123417 is a sheet of tempered glass, where
+123418 the CORE members watch her demise in a separate room.
+
+CORE sets Carol’s chain restraints from the top, tempered glass partitioned off a separate room where Carol’s state can be looked down upon.
+From the top where Carol’s chain restraints are connected is a sheet of tempered glass which separates her from the room the CORE members are watching from.
+
+
+123419 「な、なに……よ、この……部屋……
+123420 　何なの、一体……」
+123419 「Wha – What is… this… Room… …
+123420 　 What in the world…」
+
+
+123421 「ククッ……聞きたいか？　聞きたいよなぁ。
+123422 　よーし、教えてやろう」
+123421 「Ku Ku Kuuuu… … Do you want to know? You do don’t you?
+123422 　Ok, I’ll tell you」
+
+Ku Ku Kuuuu… … Do you want to hear about it? You want to hear about it right? Ok, I’ll teach you.
+
+
+123423 「まずは、Mamのメス穴にあらかじめブッ込んだ
+123424 　特製バキュームバイブからだ」 
+123423 「First of all, a specially made vacuum vibrator had
+123424 　been shoved into Mam’s pussy」
+
+123425 「バキューム……吸い上げる……？　何を……」
+123425 「Vacuum…… To suck……? What……」
+
+123426 「今のMamからは見えねェだろうが、
+123427 　そのバイブの底にはスクリューがついててな」 
+123426 「Right now Mam, as you can see, there is a screw
+123427 　at the bottom of that vibrator.」
+
+123428 「スクリューは、Mamの首につけてるセンサーつきの
+123429 　首輪と連動する仕掛けになってる」
+123428 「The screw works in conjunction with the sensor 
+123429 　in the collar that Mam is wearing on her neck.」
+
+123430 「ま、モノは試しってヤツだ。
+123431 　動作チェックも兼ねて試運転だ……」
+123430 「Well, I guess we should just try this thing out
+123431 　Just a trial run to check whether its working……」
+
+Well, I guess we should just try this thing out. An operation check via a trial run.
+
+123432 ＣＯＲＥは、手に持ったリモコンスイッチを操作する。
+123433 スライドゲージは“最小”に設定されていた。
+123432 The CORE member fiddled with the remote control he held in his hand.
+123433 The slide gauge was set at its minimum setting.
+
+
+123434 　
+123435 　　――ヴウウウウゥゥン…………
+123434 　
+123435 　　――Vuuuuuuuuuuu…………
+
+
+123436 「ひっ……？！　あ、やっ……！　うあ……！」
+123436 「Hiii……?! Ahhh……! Uahhh……!」
+
+
+123437 キャロルの秘部に埋め込まれたバイブが律動する。
+123438 膣口を押し広げ、Ｇスポット付近の凹凸がうねり、
+123439 先端はピストン運動で子宮口を突き上げてくる。
+123437 The vibrator buried in Carol’s privates moves rhythmically
+123438 Her vaginal opening expands and her vaginal
+123439 canal near her G spot swells while the tip pistons in and out of her uteral orifice
+
+Needs rephrasing too long
+ 
+
+123440 「ああっ！　やだっ……なにこれっ？
+123441 　なによこれええっ……！？　やめ、っ……！」
+123440 「Aahhhh! I don’t want this…… 
+123441 　What is this? What is thisssss…… Sto-…！」
+
+
+
+
+
+
+
+123442 「ククッ、嫌だ嫌だと言いながら、Mamのメス穴は
+123443 　気持ちよさそうにヨダレ垂れ流してんじゃねぇか」
+123442 「Ku Kuuuu, you keep saying you don’t want it but yet 
+123443 　Your pussy is overflowing with juice」
+
+Ku Kuuuu, you keep saying you don’t want it but Mam’s female opening must be feeling so good until you’re overflowing with vaginal fluid.
+Ku Kuuuu, you keep saying you don’t want it but yet you’re feeling so good that Mam’s pussy/female opening is overflowing with juice
+
+ 
+123444 「こ、こんなの……気持ちよくなんかっ……！」
+123444 「How can- Su- Such a thing… feel good…!」
+
+
+123445 「強がっても無駄だぜ。そのバイブにあらかじめ
+123446 　塗ってた潤滑剤は、禁制品の媚薬だからな」
+123445 「It’s useless pretending. The lubricant applied on 
+123446 　this vibrator beforehand is an illegal aphrodisiac
+
+It’s useless pretending/bluffing. The lubricant applied on this vibrator previously/beforehand is an illegal aphrodisiac.
+
+123447 「たった一滴で処女が淫売になっちまうくらい
+123448 　強烈なシロモンだ。そいつがロストバージンの傷から
+123449 　血管に吸収された日にゃあ……」
+123447 「Just a small drop will turn the purest of virgins
+123448 　into whores. This drug is absorbed for days 
+123449 　in the bleeding vessels of a ‘lost virgin’……」
+ 
+Just a small drop will turn the purest of virgins into sluts/whores. This drug is absorbed for days in the bleeding vessels of a ‘lost virgin’
+ 
+123450 「…………っ？！　うあ、あ……？！　ああっ！
+123451 　ひあ、ああっ……や、灼ける、っ……！」
+123450 「…………っ？！　Ua, Aahhh……?! Aahhh! 
+123451 　Ua, Aahhh……I, I’m burning up ！」
+
+
+123452 「そうそう、そういうこった……
+123453 　メス穴の奥の奥までほじくり返してほしくて
+123454 　たまんなくなっちまうのさ」
+123452 「そうそう、そういうこった……
+123453 　メス穴の奥の奥までほじくり返してほしくて
+123454 　たまんなくなっちまうのさ」
+Yes, yes, just like that…… ?????????????????????????????????????
+ 
+123455 「うあああっ！　ああっ！　あぁーーーっ！」
+123455 「Uaaaa! Aaaah!!! Aahhーーーっ！」
+
+
+123456 キャロルの絶叫に、拒絶だけではない別の何かが
+123457 うっすらと混じり始める。
+123456 Carol screams, but something else began to mix 
+123457 with her screams of rejection。
+
+
+
+123458 すると、彼女の首に巻き付けられた金属製の首輪が
+123459 チカチカと赤いＬＥＤの作動光を点灯させ始めた。
+123458 Then, the LED lights on the metal collar wrapped 
+123459 around the girl’s neck flickered red and starts running.
+
+
+123460 「お、Mam……感じてきやがったな。ククッ……
+123461 　そう、その首輪はMamがエクスタシーを感じると
+123462 　特定の電波を発するようになってる」
+123460 「Oh, Mam……You feel it don’t you. Ku Ku…
+123461 　That’s right, when Mam is feeling ecstasy, 
+123462 　the collar will emit a specific signal wave」
+ 
+
+123463 「だ、っ……だから、あたしは、っ……！
+123464 　こんな、ので……こんなので、感じてなんか……」
+123463 「So… So, I ……！
+123464 　This is... this feeling is why……」
+
+
+123465 「ウソついたって無駄だぜ、Mam。……でな、
+123466 　その首輪から発せられる電波が一定の強さに
+123467 　達すると――」
+123465 「ウソついたって無駄だぜ、Mam。……でな、
+123466 　その首輪から発せられる電波が一定の強さに
+123467 　達すると――」
+
+It’s pointless trying to lie Mam, 
+There’s no point resisting Mam. That choker will constantly send stronger signals through out your body
+
+
+123468 　
+123469 　　――チュイイィィィィン…………
+123468 　
+123469 　　――Chyuuuinnnn…………
+
+
+123470 「な、っ……なに、これ……何の音……」
+123470 「Wha- what is... that noise?……」
+
+123471 「バイブの底についてるスクリューが
+123472 　回転し始めてるのさ」
+123471 「The screw at the bottom of the
+123472 　vibrator is beginning to rotate!」
+
+
+123473 「そら、わかるか？　底から送り込まれた空気が
+123474 　バイブの胴体を通って、先端に送り込まれる。
+123475 　メス穴の奥の方がちょっと冷たいだろ？」
+123473 「There, do you get it now? Air from the bottom of the vibrator
+123474 　is sent through to the tip. The insides of
+123475 　your pussy probably feels a bit cold don't they?」
+
+
+123476 「……っ、ぅ……？　あ、っ……？」
+123476 「……uu……？ ahh……？」
+
+123477 確かに、ＣＯＲＥの言う通りだった。
+123478 自分の胎の底に風を吹き込まれているような、
+123479 何とも言えない不思議な感覚がする。
+123477 It was as what the CORE member said.
+123478 She could feel air blown from the bottom of her womb
+123479 It was a somewhat strange feeling
+
+
+123480 「だ、から……何なのよ……こんなの……
+123481 　こんな風なんか、送り込まれたところで……」
+123480 「So……So what……this thing……
+123481 　You’re just blowing abit of air into me……」
+
+
+123482 「まぁた早とちりだ。Mam、あんた頭いいんだから
+123483 　少しは考えたらどうだ」
+123482 「Don’t jump the gun just yet。Mam、You’ve got
+123483 　brains, how about you use them」
+
+You’re jumping to conlusions. You’ve got a good head on you. 
+Why don’t you think about it abit more
+
+
+123484 「う、っさい……わね……媚薬、なんか……っ……
+123485 　盛られた、上に……こんな、こと、されて……
+123486 　あ、たま……っ、働く、わけ……」
+123484 「Urgh……I feel……the aphrodisiac…………
+123485 　spreading further……inside me, I……
+123486 　ah、I feel……so hot ……」
+
+123487 「おっとそうか、そりゃそうだ。ハッハッハ。
+123488 　じゃあ種明かししてやろう」
+123487 「Oh yeah,  that’s right。HaHaHa。
+123488   let me tell you a secret」
+
+
+123489 「そのバイブのスクリューは、風を送り込むために
+123490 　作ったもんじゃねぇ。Mamの子宮口に
+123491 　ステキな液体を送り込むためにあるんだよ」
+123489 「The screw in the vibrator ain’t meant to 
+123490 　send air。It’s meant to send
+123491 　a wonderful liquid in to Mam’s uterus」
+
+
+123492 「え、きた……い……？　あ、っ……ぅ……」
+123492 「Huh? What’s... coming？　Ahh ……」
+
+123493 稼働し続けるバイブ、そこからさざ波のように寄せる
+123494 快楽に、キャロルの身体からふっと力が抜ける。
+123493 Carol abruptly loses her strength in her body
+123494 due to the vibrator’s continuous ripples of forced pleasure
+
+Carol’s body succumbs to the vibrator’s continuous ripples of forced pleasure 
+
+The vibrator continued to work, ripples of pleasure brings Carol closer to climax. She suddenly loses her strength in her body
+
+
+123495 すると、不安定な姿勢で立たされている
+123496 キャロルの膝がかくんと折れる。
+123495 Already unstable from the way she was 
+123496 standing, Carol’s knee buckles。
+
+
+123497 がしゃん、と音を立てて、
+123498 キャロルの手首を拘束している手枷と鎖が
+123499 金属音を立てた。その途端――
+123497 The metal chains restraining Carol’s
+123498 wrists make a clashing noise
+123499 and at that moment--
+
+ 
+123500 　
+123501 　　――どぷっ…………
+123500 　
+123501 　　――Drip…………
+Glop, Goop Gloop I don’t know, pick one
+
+123502 「えっ……？　な、何、これ……」
+123502 「Huh……？　Wha- What’s that……」
+
+123503 キャロルの周囲を取り囲む円筒状の壁から、
+123504 白くて粘性のある液体がだらだらと伝い落ちる。
+123503 A white viscous liquid trickles down the walls
+123504 of the cylinder surrounding Carol。
+
+123505 それはキャロルの足下に溜まって、
+123506 少しずつ水位を上げていく。
+123505 The liquid collected at Carol’s feet
+123506 and slowly continued to rise 。
+
+123507 「や、やだ、足首に……何なの、これ……
+123508 　なんか、生臭い……」
+123507 「N- No、What is this……at my ankles,
+123508 　it smells fishy....」
+
+
+123509 「ああ、そうか、Mamは男と寝た経験ないものなァ。
+123510 　その臭いですぐわかると思ったが」
+123509 「Ah, I see. Mam has never slept with a guy before。
+123510 　I thought this fragrance would help you understand」
+I was hoping you’d figure it out from this fragrance.
+
+
+123511 「そいつはな。男の精液だ」
+123511 「That, my dear. Is semen」
+
+123512 「――な」
+123512 「――Wha」
+
+
+
+
+
+
+123513 「人造品だがな、機能は天然と同じだ。
+123514 　俺たちＣＯＲＥの脳髄液から抽出した遺伝子を
+123515 　培養して、ナノマシンに封じ込めてある」
+123513 「Artificial semen  but still like the natural stuff。
+123514 　We extract the genes from CORE brain fluid,
+123515 　cultivate it and keep them in nanomachines」
+
+omg wtffffff - I would’ve just been satisfied with real semen but explainin lol lawlll
+
+123516 「そっ、そんな汚らしいもの、流し込まないでよ！
+123517 　い、いやっ、やだ……！」
+123516 「Su- Such a filthy thing、I don’t want it pouring 
+123517 　inside me! N- No……！」
+
+I don’t want such a filthy thing pouring into me! N-No!
+Su- Such a filthy thing, impregnating me! N- No!
+
+123518 生暖かい液体は、すでにキャロルの足首近くまで
+123519 溜まり始めていた。
+123518 The lukewarm liquid already began
+123519 collecting near Carol’s ankles。
+
+
+123520 「やめてよ、こ、こんなっ……水攻めにする気？！
+123521 　止めて、止めなさいよっ！」
+123520 「Stop th- thiis……Cut the flow！
+123521 　Stop、Stop this please！」
+
+
+123522 「また勘違いだ。精液をドボドボ注ぎ込んでるのは
+123523 　俺じゃねぇ。Mam自身だ」
+123522 「また勘違いだ。It is not I who needs the semen 
+123523 　poured into。It’s Mam」
+
+
+123524 「頑張って身体に気合い入れて、自分で立ってみな。
+123525 　手首の枷につながってる鎖をゆるめれば、
+123526 　精液の流れは自然と止まる」
+123524 「Give it your all and stand tall!
+123525 　The semen will stop flowing as long
+123526 　as you don’t pull on the chains」
+
+
+
+123527 「えっ？　あ、っ………………」
+123527 「Huh？　Wha-………………」
+
+123528 慌てて足に力を入れ、身体を起こす。
+123529 ――すると確かに、精液の流入は止まった。
+123528 She hurriedly steadies her footing and lifts herself 
+123529 ――Indeed、the flow of semen did halt。
+
+
+123530 「さあ、理解できたか？　Mam……」
+123530 「Now, do you get it？　Mam……」
+
+123531 「ふんっ、あんたらが極度の変態や性的異常者で、
+123532 　どうしようもないクズだってことは
+123533 　とっくに知ってるわ！」
+
+123531 「Hmph, I knew from the beginning that you
+123532 　were just a perverted, sadistic piece of 
+123533 　garbage！」
+
+123534 「そこじゃねえ……そういうことじゃねえ。
+123535 　わっかんねぇかなぁ……クックック……」
+123534 「Hey there……that ain’t true。
+123535 　Or at least...I wouldn’t know…Kukuku...」
+
+Hey there... don’t be like that
+I wouldn’t know about that... kukuku ← taunting and teasing
+
+
+
+123536 「なぁMam、女が妊娠しやすい時ってのは
+123537 　どういう時だか、知ってるかい……？」
+123536 「Hey Mam、Do you know when is the
+123537 　easiest time for a girl to get pregnant……？」
+
+
+123538 「……？」
+123538 「……？」
+
+
+123539 「一種の俗説だが、女の身体ってのは
+123540 　エクスタシーを感じれば感じるほど……そう、
+123541 　強烈なオーガズムを感じるほど……」
+123539 「There’s a saying, when a woman’s body
+123540 　experiences a certain degree of ecstasy、
+123541 　that is, when she gets an intense orgasm……」
+
+
+
+
+123542 「より男の精子を迎え入れやすくなって、
+123543 　妊娠しやすい状態になる……らしいぜ？」
+123542 「It’s easier for a man’s sperm to enter、
+123543  thus, easier to get pregnant……らしいぜ？」
+
+suggested: rashiize?? - sounds good?
+
+
+123544 「……………………」
+123544 「……………………」
+
+
+123545 キャロルの足下を濡らす、白く粘つく人造の白濁。
+123546 部屋の中に充満するむせかえるような牡の匂い。
+123545 Carol’s feet soaked in the sticky white artificial goo。
+123546 The room filled with the choking odour of man。
+rephrase
+
+
+123547 そして、自分の首輪、手枷、鎖。
+123548 秘部にねじ込まれているバキュームバイブ―――
+123547 Then、自分の首輪、手枷、鎖。
+123548 秘部にねじ込まれているバキュームバイブ―――
+She realises at this point. Literal meaning is just describing the various items attached to her. No point writing it the same way
+
+123549 「ま……さか、あんたたち……まさか……！」
+123549 「Wa-……wait、you don’t mean you’re-！」
+
+
+123550 「ゲヒャヒャヒャヒャ！　その通りさMam！！
+123551 　あんたには正真正銘、俺たちのMamに
+123552 　なってもらうってぇわけさ！」
+123550 「Guhahahaha！　Exactly Mam！！
+123551 　あんたには正真正銘、俺たちのMamに
+123552 　なってもらうってぇわけさ！」
+Guhahahaha! Exactly Mam!! You’re genuine, ???Mam will receive it????
+
+
+
+123553 「生まれた子供は最優先でＣＯＲＥにして
+123554 　すぐさま戦場に送り込んでやるぜ！
+123555 　これで俺たちの帝国は安泰ってわけだよ！」
+123553 「The children you give birth to will be given CORE’s 
+123554 　top priority to be sent immediately to the battlefront！
+123555 　With this, peace in our empire will be secured！」
+Shorten if possible
+
+
+123556 「や、やだ……！　いや、やだ、そんなっ……」
+123556 「N-、No……！　No、I don’t want this……」
+
+123557 「俺たちのベイビーを孕み続けている限り、
+123558 　あんたはＶＩＰだ、大事にしてやるよ！
+123559 　さあ、遠慮なく種付けを楽しみな！」
+123557 「As long as you continue to make babies for us、
+123558 　You are our VIP, it’s a very important job！
+123559 　Now, enjoy yourself and keep makin them babies！」
+Maybe wrong translation. Could be “We’ll take great care of you”
+
+
+123560 ＣＯＲＥは、バキュームバイブのリモコンスイッチを
+123561 最小から一気に最大へ跳ね上げる。
+123560 In one fell swoop, The Core member flipped the vacuum 
+123561 vibrator’s remote switch from minimum to its maximum setting。
+Shorten if possible
+
+
+
+
+123562 「うあああっ？！　あ、ぐ……うあああっ！
+123563 　ひ、う……あ、ああっ……！」
+123562 「Uaaa？！　Ah、Gu……uaaah！
+123563 　hiii、U……aah、aah……！」
+
+
+123564 「ギャハハハハ！　感じてる、感じてやがる！
+123565 　首輪のＬＥＤが点灯しっぱなしだぜ！」
+123564 「Gyahaha！You feel it? You feel it don’t you!
+123565 　Your collar’s LEDs are constantly flashing！」
+I’m not sure whether he’s telling her to feel it or whether he’s taunting in a questioning way
+Gyahahaha! Feel it, relish it! Your collar’s LED lights are constantly flashing!
+
+123566 「こ、っ……この、こんなので、っ……！
+123567 　うあ、ああっ！　ひい、っ……！」
+123566 「Th-……such a thing……！
+123567 　Uaah、Ahhっ！　Hiii、……！」
+
+
+123568 いくら抵抗しようと思っても、媚薬で発情した身体を
+123569 弄ばれている限りはどうにもならない。
+123568 No matter how much she tried to resist, she 
+123569 was helpless to the effects of the aphrodisiac。
+
+If anyone can think of a more creative way to say this, please feel free to comment
+
+123570 バキュームバイブの底に取り付けられたスクリューは
+123571 すさまじい勢いで回転を続けていた。
+123570 The screw attached to the bottom of the vacuum 
+123571 vibrator continued to rotate vigourously。
+
+
+123572 「あ、ぐ……うあ、っ……ひぐ、うっ……！」
+123572 「Ah、Gu……Uah、……Higu、Uuuh……！」
+
+123573 　
+123574 　　―――ブ、っ……ブビ……ブビビッ！
+123573 　
+123574 　　―――Buuu……Bubi...Bubibii！
+
+
+
+123575 「いいねいいねェ！　バージンのメス穴から
+123576 　空気が漏れて屁ェみてぇな音が漏れてくるぜ！
+123577 　こりゃ記録のしがいがある……！」
+123575 「Good, good！　Those sounds made from 
+123576 　air leaking from a virgin pussy！
+123577 　I’ve gotta get this on tape……！」
+rephrasing required at いいねいいねェ
+
+
+123578 「な……？！　き、記録って……！」
+123578 「Wha-……？！　You’re gonna record this?」
+
+123579 「こんなの俺一人で独占すんのはもったいねぇよ！
+123580 　今データリンクを通じてすべてのＣＯＲＥに
+123581 　リアルタイム中継してるんだよ！」
+123579 「It won’t be fair if I’m the only one hogging this!
+123580 　I’ll stream this on the datalink so that all of
+123581 　CORE can see this real time！」
+
+
+
+123582 「今は、全ガメリカ……いや、ＣＯＲＥの
+123583 　奴らがみんなこの光景を拝んでるって訳だ！
+123584 　ギャハハハハハハ！」
+123582 「Now, all of Gamerica... I mean, all you guys 
+123583 　in CORE, behold this wonderful spectacle！
+123584 　Gyahahah！」
+check in game
+
+
+123585 「や、っ……やめ、やめて、っ……！
+123586 　そんな、そんなっ……！」
+123585 「No-……Stop、Stop it……！
+123586 　Stop this……！」
+
+
+
+123587 怒りと恐怖がない交ぜになったキャロルは、
+123588 自由が利かないとわかっている拘束された身体を
+123589 それでも激しく揺さぶらせた。
+123587 Angry and fearful, Carol relentlessly struggles
+123588 to break free of her restraints, 
+123589 no matter how futile it may seem。
+
+
+
+123590 その途端、足が滑る。
+123590 At that moment、her feet slips。
+
+
+123591 「――やっ？！　うあっ……」
+123591 「――Wha？！　Uaah……」
+
+123592 手枷が軋む。鎖が引き延ばされる。
+123593 ――人造の白濁液が、どっと流れ込む。
+123592 Her handcuffs jerk。Her chain pulled taut。
+123593 -The artificial cloudy fluid immediately pours in.
+
+
+
+123594 「いっ、いやああっ……！　やだ、やだやだやだっ！
+123595 　やめて、やめ……！！」
+123594 「N-、Noo……！　No, No No No！
+123595 　Stop、Sto-！！」
+
+123596 必死になって身をよじり、バキュームバイブの底が
+123597 精液だまりに接触しないよう身をよじる。
+123596 She frantically twists her body away from the 
+123597 semen to avoid contact with the bottom of the vibrator。
+
+Carol frantically twists her body away from the semen to prevent it from coming into contact with the bottom of the vibrator
+
+
+123598 けれど、精液の水位が一定以上になると、
+123599 どう腰をよじろうと体勢を変えようと無意味だ。
+123598 However、the level of semen was far too high、
+123599 her attempts to twist away was pointless。
+
+
+123600 「やだ、やああっ！　こ、ＣＯＲＥの子供なんか
+123601 　産みたくない……！　やだやだやだあっ！」
+123600 「No, Noo！　I- I don’t want to give 
+123601  birth to CORE children！　Nonono！」
+
+
+
+
+
+
+
+123602 焦れば焦るほど、足が滑る。
+123603 手枷と足枷がガシャガシャと音を立てて、
+123604 白濁液の流入に拍車をかける。
+123602 The  more she panics, the more her foot slips
+123603 Her cuffs and shackles clash and clang as、
+123604 the cloudy liquid continues to spur in。
+
+
+123605 「や、やめ……やめて、いや、いや……神様っ……」
+123605 「No、Stop...Don’t、No、No……Oh God……」
+
+
+123606 もはやどうにもならず、キャロルは神に祈る。
+123607 そうするしかなかった。
+123606 Feeling hopeless, Carol could do nothing。
+123607 but pray。
+
+
+
+123608 けれど、救いの手など、
+123609 差し伸べられるはずがない――
+123608 However, it was all for naught.
+123609 No one came to her rescue――
+
+123610 「……っ、うああああっ！　いやああああっ！
+123611 　あああぁーーっ！　やああああっーーーー！」
+123610 「……、Uaaaaah！　Nooooooooっ！
+123611 　Aaaahhhーーっ！　Yaaaaahhーーーー！」
+
+
+123612 ごぼっ、ごぼぼっ、じゅるるるっ……！
+123612 Glug, Glug, Grrrruuuu...！
+I’m too horny for this shit
+
+123613 酷い音を立ててバキュームバイブが精液を吸い上げ、
+123614 キャロルの体内へ白濁を送り込んでいく。
+123613 The vibrator made a cruel sound while it sucked
+123614 the cloudy semen into Carol’s body。
+
+
+
+
+
+
+
+123615 「やめて、やめてええっ！　いや、やあああっ！
+123616 　ゆるして、やだ、おねがい、いやあああっ！
+123617 　いやああっ！　やああああっ！」
+123615 「Stop, Stopppp！No, Nooo!
+123616 　Forgive me、please、nooooo！
+123617 　Nooo！　Nooooooっ！」
+
+123618 今まで空気が送り込まれていた場所に、
+123619 生暖かいどろっとした液体が流れ込んでくる。
+123618 Where air was previously sent to was now、
+123619 filled with a lukewarm liquid 。
+
+
+123620 その感触がはっきりとわかる。
+123620 She knew exactly what had transpired。
+
+123621 「いやああっ！　妊娠しちゃうよおっ……！
+123622 　したくない、そんなのやだ、やだあああっ！
+123623 　もういや、いやあああっ！　たすけてええっ！」
+123621 「Nooo！　I’m gonna get pregnant……！
+123622 　I don’t want to、I don’t want this、Nooo！
+123623 　Ohhh Nooo、Noooo！　Help me！」
+
+
+
+123624 「クックック……さて、最初に生まれるのは
+123625 　誰の子供だろうかね……」
+123624 「Kukuku…Now, I wonder who’s child
+123625 　will be born first……」
+
+
+123626 「ま、誰だったとしても、
+123627 　人間としてサイアクのろくでもない凶悪犯の血が
+123628 　半分入ってるのは確実だがな！　ガハハハ！」
+123626 「Well、Whoever it is、It’ll surely be 
+123627 　from the worst, most heinious kind
+123628 　of criminal entering you！　Gahaha！」
+
+123629 「Uaaaaaaaaーーーーー！
+123630 　Nooooo！　Save me、Help meeee！
+123631 　Nooooooーーーーーーーーーっ！！！！」
+*****last line**** <-- Tt’s so fuckin ‘hard’ to translate this
+
+
+
+-----------
+Carol event 2 - A fine day
+lines 123632 - 123646 
+-------------------
+123632 ＵＳＪ星域、
+123633 ＣＯＲＥ軍基地の地下――
+123632 ＵＳＪ Star region、
+123633 ＣＯＲＥ Underground military base――
+
+123634 う、ぁ…………ぁ、や…………
+123634 U、ah…………ah、N-…………
+
+123635 い、や……も、いや……
+123636 にん、しん……いや、やめ……っ……
+123635 N-、no……enough ……
+123636 I ha…… -nough、sto-……っ……
+
+
+123637 よぉ、Mam。調子はどうだ？
+123637 Yo、Mam。How’s it going？
+
+123638 ……っ？！　ひっ……！
+123638 ……？！　Hiii……！
+
+123639 妊娠ってのはなかなか難しいんだな。
+123640 前のじゃMamの腹に着床しなかった
+123641 みたいでなぁ。
+123639 Pregnancy looks pretty challenging。
+123640 Mam’s belly looks like it’s been
+123641 impregnated again。
+
+
+
+123642 さ、ついてきな。
+123643 もう一回、前と同じ遊びをやろうぜ？
+123642 Now, Come along with me。
+123643 Why don’t we go for another round of foreplay?？
+
+Why don’t we play in the pool again one more time? ← reference to event 1
+Why don’t we play together for another round
+rephrase
+
+
+
+
+
+
+123644 い、っ……いやあああっ！
+123645 やだ、やだやだやだやだっ……！
+123646 いやああああああっ！
+123644 N-……Nooo！
+123645 No No No No……！
+123646 NOOOOOOOO！
+
+--------------------------------------------------------------
+Story Event - Turn 2 start Lines 73300 - 73397 
+------------------------------------------------------------------
+73300 ＣＯＲＥ支配地域――
+73300 ＣＯＲＥ Ruled region――
+
+73301 王よ…どうぞこちらへ。
+73301 This way... my liege。
+
+
+73302 周辺の始末は、もう済んだのか？
+73302 Have you secured the area？
+
+
+73303 はい…
+73304 一般人は放ってますが、
+73305 抵抗兵士は掃討しました。
+73303 Yes…
+73304 The rebels have been swept up
+73305 and the local populace expelled。
+
+
+
+73306 よし、後始末は任せたぞ。
+73307 オレは少しこの辺を散歩してくる。
+73306 Good, I knew I could leave it to you。
+73307 I’m gonna take a small stroll around。
+
+
+73308 わかりました…
+73309 お気を付けて…
+73308 Understood…
+73309 Please be careful…
+Roger that
+
+
+
+73310 そら、行くぞ。
+73310 Come、Let’s go。
+
+
+73311 …………
+73311 …………
+
+
+73312 トルーマンから離れ、二人は廃墟の中を進み出す。
+73312 The two leave Truman behind and proceed to the ruins。
+??test ingame - ? shorten
+
+73313 歩く間にも空に向かって新たな火がのぼり、
+73314 悲鳴があがり、いまなお虐殺が進行中である事を
+73315 示していた。
+73313 While they walked, the horizon was lit ablaze
+73314 by fresh fires and screams still filled the air 
+73315 from the continued mass murder。
+
+73316 トルーマンのヤツ…
+73317 派手にやってるじゃねーか。
+73316 That Truman fellow…
+73317 He’s quite a show off isn’t he。
+
+73318 あ……
+73318 あ……
+
+
+73319 と、不意にプリンセスが立ち止まり、
+73320 路の端を見つめる。
+73319 Princess stopped abruptly
+73320 Her gaze fixed on the edge of the road。
+
+
+73321 ん？
+73321 ん？
+
+73322 追ってキングコアが見てみると、そこには
+73323 一人の少年が立って、二人の方を見ていた。
+73322 King Core followed her gaze, there stood 
+73323 a young boy. He was looking right back at them。
+
+
+
+
+73324 恐怖のためかヒザはガクガクと震えながら、
+73325 しかし瞳は怒りに燃えている。
+73324 The boy’s knees were trembling and shivering、
+73325 but his eyes were burning with anger。
+
+73326 なんだ、その顔は？
+73327 ハハハッ！
+73326 What’s with that expression？
+73327 Hahaha！
+
+
+73328 オレたちに親でもコロされたか？
+73328 Have we murdered your parents？
+
+73329 うるさいっ！　母さんの仇めっ！
+73329 Shut up！　You fuckin mom killer！
+
+
+73330 ガキか…
+73331 そういやオレにもあんな頃があったな…
+73330 Punk ass kid…
+73331 That reminds me, do I actually have time to do that…
+prolly wrong
+
+73332 …………………
+73332 …………………
+
+73333 んっ…………このおっ！！
+73333 Ugh…………You bastard！！
+
+73334 少年はキングコアに向けて石を放り投げる。
+73334 The boy threw a rock at King Core。
+
+73335 石はキングコアにぶつかって小さな音を鳴らし、
+73336 地面に転がりおちた。
+73335 A small sound was made as the rock hit King Core
+73336 and fell to the ground。
+
+
+73337 …………
+73337 …………
+
+
+
+73338 普段なら近づいていって括り殺すところだが、
+73339 キングコアは微動だせず、その場に立っていた。
+73338 Normally he would’ve killed him on the spot、
+73339 but instead, King Core barely took a step。
+
+
+
+73340 くっ……くそおっ！
+73340 Fu- Fuck！
+Shit works too
+
+
+73341 キングコアへの怒りと、
+73342 自分が今以上の勇気を示せない事への怒り。
+73341 He was angry at King Core、
+73342 it was fury, rather than a show of courage。
+
+
+
+73343 少年は踵を返すと、その場から走り去っていった。
+73343 The boy turned heel and ran away。
+Does that make sense? My englaaand no so good
+
+
+73344 ……………
+73345 …………？
+73344 ……………
+73345 …………？
+
+
+73346 プリンセスは小首を傾げて、
+73347 無言のままのキングコアの顔を見上げる。
+73346 Princess tilted her head to one side in confusion,
+73347 then looked at King Core’s face。
+
+
+73348 キングコアは幻を見ていた。
+73349 人であった頃、少年であった頃の
+73350 過去の幻を――
+73348 King Core saw a ghost。A ghost
+73349 of the past. During a time when 
+73350 he was a boy, when he was still human――
+
+
+
+73351 ・・・・・・・
+73352 ・・・・・
+73353 ・・・
+73351 ・・・・・・・
+73352 ・・・・・
+73353 ・・・
+
+
+73354 リンカーン、それが彼の名前。
+73354 Lincoln, That was his name。
+
+
+73355 物心ついた頃から喧嘩っ早く、
+73356 手のつけられない子供だった。
+73355 As a kid, he always got into fights、
+73356 no kid could lay a hand on him。
+
+
+73357 もとよりの才能。武術全般に長けており、
+73358 納得いかないことには自分より年上だろうが
+73359 大人だろうが拳を振り上げる。
+73357 He was innately talented. Proficient in
+73358 martial arts and brash, he would challenge
+73359 his seniors and adults
+rephrase
+
+
+73360 両親すらもあまりに凶暴な彼を
+73361 悪魔ではないかと疑い、恐れ、
+73362 叱る事が出来なかった。
+73360 Even his abusive parents daren’t
+73361 scold him. They thought he was
+73362 a demon.
+Even his abusive parents daren’t scold him. They suspected him to be a demon
+
+73363 周囲の少年たちに崇拝され、いっぱしの大将に収まり、
+73364 でも本心では知っていた。
+73363 The neighbourhood boys admired him, It was befitting
+73364 he became gang leader but no one knew how he truly felt。
+rephrase
+
+
+
+73365 本当は誰も自分を尊敬していない。
+73366 恐ろしいだけだ。
+73365 In reality, no one respected him。
+73366 恐ろしいだけだ。
+Unnecessary statement ???? - How horrible/dreadful
+
+
+73367 心からオレを好きな奴なんか、誰も居ない。
+73368 だが、出る杭は打たれる。
+73367 I have no one to truly love and care for。
+73368 だが、出る杭は打たれる。
+idiom - best policy is to keep your head down
+suggested But it’s best to avoid such trouble?????
+
+73369 自分よりも前に進む者が若ければ若いほど
+73370 反発は強い。
+73369 自分よりも前に進む者が若ければ若いほど
+73370 反発は強い。
+?Profound quote
+Suggested: It is better to keep moving forward when young than to fight back
+Suggested: The younger the person is when he moves forward, the greater the repulsion 
+Suggested ;The more a young person pushes forward, the more you have to push against.
+Suggested; It is better to accept and move on rather than to linger.
+
+
+73371 若干8歳にして傷害事件をおこし、
+73372 少年院に入れられた。果たして因果は巡る…
+73373 そこの院長は彼が暴行を働いた少年の父親だった。
+73371 At the tender age of 8, he was sent to 
+73372 a juvenile reformatory for assault. 果たして因果は巡る…
+73373 The director whom he had assaulted was his father。
+Very difficult to fit all info in 3 lines. 
+果たして因果は巡る- 
+One deed deserves another.
+What goes around comes around.
+Every action comes with an opposite reaction
+At the tender age of 8, he was sent to a juvenile reformatory for assault. Like how one deed deserves another... the director of the school whom he had assaulted was his father.
+
+
+
+
+
+
+73374 院長は権限を最大限に使い、リンカーンは
+73375 少年とは思えぬ理不尽な扱いを受ける。
+73374 The director abused his power. 
+73375 Little Lincoln believed he was treated unfairly。
+
+
+
+73376 満足に食事も与えられず、鞭で打たれ、殴られた。
+73376 Never given enough food, struck with a whip。
+Left to starve, struck with a whip
+
+73377 それでも不敵な表情でにらみつけるリンカーンは
+73378 更なる暴力を受け、背中に鼠の刺青を彫られた。
+
+73377 Still,  he remained resilient which subjected him to 
+73378 further abuse. He carved a tattoo in a shape of a mouse on his back
+Again, alot of stuff to fit in to 2 lines. Must shorten and rephrase
+
+Still,  his facial expression remained resilient which subjected him to further abuse. He carved a tattoo in a shape of a mouse on his back
+
+
+73379 だが、これが好機だった。個人的な恨みによる少年への
+73380 一般的な暴行が看守の一人によって公表され院長は解任。
+73379 However, this was a fortunate event。The director got 
+73380 fired after a prison guard outed him for holding a personal grudge and assault the boy
+Again, alot of stuff to fit in to 2 lines. Must shorten and rephrase
+
+
+73381 リンカーンも減刑、出所の運びとなった。
+73381 Lincoln’s penalty was reduced and eventually was released。
+SHORTEN GODDAMNIT
+
+73382 出所した彼は、帰宅前に元院長の家を襲撃し、
+73383 彼を完膚なきまでに叩きのめしたのだ。
+73382 Now a free man, before returning home, he raided the
+73383 ex-director’s home and relentlessly brutalised the man。
+shorten, rephrase
+
+
+
+
+
+
+
+
+73384 この出来事により、誰もが自らへの復讐を恐れ
+73385 リンカーンの告訴を憚るようになった。
+73384 Due to this incident, no one dared to take action 
+73385 against Lincoln as they feared retribution。
+Rephrase. Vengeance can be used instead of retribution 
+
+
+73386 より凶悪な菌をその身に浴びせられ、
+73387 ラット<鼠>は世界に放たれたのだ。
+73386 より凶悪な菌をその身に浴びせられ、
+73387 ラット<鼠>は世界に放たれたのだ。
+No clue - I think it’s a creative way to say a terrible person has been released into the world.
+Suggest: Worse than the most heinous bacteria being poured on, the rat was set loose into the world. 
+
+
+73388 …………
+73389 …………夢か…
+73388 …………
+73389 …………Was that a dream?…
+A dream eh/huh?
+
+
+73390 寝てもいないのにな。
+73390 I guess I haven’t had enough sleep
+might be wrongly translated
+
+73391
+73392 　　ダダダダダダン！
+73391
+73392 　　Ratatatatatat！
+
+
+73393 「うああああああーっ！！」
+73393 「Uaaaahーっ！！」
+
+
+73394 離れたところから銃声に遅れて聞こえた悲鳴は、
+73395 先ほど石を投げた少年の声に似ていた。
+73394 The sounds of gunshot ringed from behind them、
+73395 the shriek that followed resembled the boy who ran 。
+
+
+
+73396 …………いくぞ。
+73396 …………Lets go。
+
+73397 …………
+73397 …………
+
+******last line*****
+
+----------------------
+Turn 1 Story event on attacking Ise-shima (spain)
+lines 76134 - 76161
+-------------------------
+76134 伊勢志摩星域――
+76134 Ise Shima Star Region――
+
+
+76135 しばらく休戦状態になっていた宇宙空間に、
+76136 フェリペの立体映像が投影された。
+76135 A temporary truce had been made in this airspace、
+76136 Felipe’s hologram appears。
+hologram can be replaced with projection - Check main translations for consistency
+
+76137 ルゥォォォォザ！
+76137 Rooooossaaaaa！
+
+76138 聞こえるか、我が妻よ！！
+76138 Can you hear me, my dear wife！！
+
+
+76139 フェリペの呼び掛けに応え、
+76140 ローザも立体映像を投影する。
+76139 Felipe’s calls are answered、
+76140 Rosa’s hologram appears。
+
+
+76141 ええ…
+76142 聞こえているわ、フェリペ。
+76141 Yes…
+76142 I hear you Felipe。
+
+
+
+76143 ついに、あのＣＯＲＥが
+76144 我々の星域を侵略しにやって来た。
+76143 Finally、CORE has begun
+76144 their invasion on our star region。
+
+
+
+76145 血の通わない機械人間どもが。
+76145 Although they are bloodless machine people。
+
+
+76146 ええ、気高さの欠片も無い連中が…
+76147 汚らわしいことだわ。
+76146 Yes, those guys haven’t a scrap of
+76147 nobility... how disgusting。
+
+‘disgusting’ interchangeable with ‘filthy’
+
+
+76148 我らが故郷を、カリブの熱風を、
+76149 奴等に汚される訳にはいかん。
+76148 Our hometown、the hot wind of Carribean、
+76149 Those guys musn’t defile our land。
+我らが故郷を、カリブの熱風を- must refer to main story and verify
+
+76150 ローザ、今こそ手を組まないか？
+76150 Rosa, Isn’t it time to work together？
+
+76151 内戦を止めて、夫婦一丸となろう。
+76151 Let’s stop this civil war and be husband and wife together.
+76151 Stop this civil war, we should be united。
+Lost context - They as a couple should be united. rephrase?
+
+76152 イスパニアの、人類の誇りにかけて、
+76153 奴等を追い払うのだ。
+76152 Our Espanian pride will drive those
+76153 dogs back to where they came from。
+
+Our Espanian human pride will drive those guys back 
+
+76154 ふふっ…
+76155 私も同じ事を言おうとしていたところよ。
+76154 FuFu…
+76155 I was about to say the same thing。
+
+
+76156 さすがは我が夫。
+76156 As you’d expect from my husband。
+
+I expected nothing less from my husband.
+
+
+76157 ええ、ともに戦いましょう…情熱的に。
+76157 Yes, Lets fight together… with passion。
+
+76158 愛しているわ、あなた。
+76158 I love you, my dear。
+
+76159 ああ、私も心から君を愛している。
+76159 I love you too, from the bottom of my heart。
+ああ necessary?
+
+76160 我々の愛でこの星域に
+76161 勝利の華を咲かそう。オーレイッ！
+76160 Our love will bloom the
+76161 flower of victory. Olé！
+
+
+********last line***********
+-------------------------
+Turn 1 after conquering Ise-shima - 76162 - 76283 
+------------------------
+
+76162 惑星伊勢志摩――
+76162 Planet Ise Shima――
+
+76163 ぐ、ぅぐッ……！
+76163 Gu、Ugh……！
+
+
+76164 傷つき、血にまみれた脇腹を押さえたフェリペが、
+76165 よろよろと歩いていた。
+76164 Injured and covered in blood, Felipe held 
+76165 his side and walked unsteadily。
+can be rephrased for better flow
+
+76166 ふっ…
+76166 Phew…
+
+
+76167 なんとかＣＯＲＥどもを出し抜いたな…
+76167 Somehow I was able to outwit CORE…
+
+
+76168 提督！
+76168 Admiral！
+
+
+76169 無理に喋らないで下さい！！
+76169 Don’t overexert yourself！！
+Try not to talk too much!! 
+
+
+76170 ふははははっ、では、
+76171 無理でないなら喋ってもいいのだな？
+76170 Fuhahaha, if I’m not allowed exert myself
+76171 無理でないなら喋ってもいいのだな？
+
+
+
+76172 私の口を塞げるのは美女だけだ。
+76172 Only a beautiful woman can shut me up。
+
+76173 提督！！
+76173 Admiral！！
+
+76174 いいか、ロレンツォ。
+76174 Listen、Lorenzo。
+
+
+76175 この先の格納庫に脱出艇がある。
+76175 There’s an escape boat beyond this hangar。
+
+76176 君はそれに乗り、他星域へ向かえ。
+76176 Get on it、go to another star region。
+Get on it, leave this place (or any alternate runa way runwaway)
+
+76177 欲を言えば、定員分の人間を
+76178 乗せたかったが…
+76177 My only desire, is that you gather as many
+76178 people as you can possibly take on board…
+
+76179 君一人でも逃げるんだ。
+76179 Even if you can only save yourself, run。
+
+76180 な…何を言ってるんですか。
+76180 Wha- What are you saying?
+What are you trying to say?
+
+76181 しっかりして下さい。あなたが乗って、
+76182 ローザ提督の所へ向かうべきです！
+76181 Please get a hold of yourself。You should
+76182 get on the boat and get to Rosa！
+rephrase
+
+76183 ふっ…我が妻のことなら、心配無用だ。
+76183 Fu… I’ll just worry her more。
+rephrase
+
+76184 ローザなら自力で戦い抜いているはずだ、
+76185 生き残るにしても、散るにしても。
+76184 Rosa’s self capable. She’ll fight to
+76185 the bitter end, whether she survives or not。
+rephrase 
+
+76186 しかし…！
+76186 But…！
+
+76187 いいんだ、行け。愛しの妻は、
+76188 目を閉じれば常にまぶたに映る…
+76189 ローザもそうに違いない。
+76187 It’s alright, go. Even when I draw my last
+76188 breath, my loving wife will always be reflected in my
+76189 eyes… Rosa would feel the same way too。
+shorten
+
+
+76190 真の愛で結ばれた我々には、
+76191 死の瞬間の孤独などありえないのだよ。
+76190 We are bound by true love、
+76191 even in death we will never be alone。
+
+
+
+76192 だから君が行け、生き残れ。
+76192 That’s why you must go, survive。
+survive <-> stay alive
+
+76193 ぐずぐずしていては間に合わん…
+76194 行くんだ、ロレンツォ！
+76193 Now’s not the time to faff around…
+76194 Get outta here、Lorenzo！
+Now’s not the time to dilly dally
+Go Lorenzo!
+
+
+
+76195 提督！！
+76195 Admiral！！
+
+
+76196 ああ…彼女の靴の音が聞こえる。
+76196 Aah…I can hear my girl’s footsteps 。
+
+
+76197 まだ迎えには早いと思うんだがな。
+76197 It’s a bit too soon for me to go just yet。
+
+
+76198 もう少し、奴等を道連れにしたいんだが…
+76199 …ごめんなさいね。
+76198 Just a little longer, I still need to take 
+76199 a few of those guys with me… I’m sorry。
+
+
+
+76200 死出の天使ではないのよ。
+76200 The angel of death isn’t here yet。
+
+It’s not the angel of death calling
+
+76201 何っ…！？
+76201 What…！？
+
+
+76202 貴方の期待にそえなくてごめんなさい。
+76202 I’m sorry, I’m not what you had expected。
+
+
+76203 部下に気絶させられて、
+76204 脱出艇に放り込まれてしまったみたい。
+76203 部下に気絶させられて、
+76204 脱出艇に放り込まれてしまったみたい。
+
+
+
+76205 ローザ！！
+76205 Rosa！！
+
+76206 本物の君なのか、おお…！
+76206 Is that really you?、Oh…！
+
+76207 ローザ提督！
+76208 よくぞご無事で…！
+76209 良かったです、ここへ来てくれて…
+76207 Admiral Rosa！
+76208 I’m glad that you are safe…！
+76209 It’s good that you’ve come here…
+
+
+
+76210 …良くはないわ。
+76211 私は自分の艦隊を、部下を守れなかった…
+76212 情けない女よ。
+76210 …Not quite.
+76211 I wasn’t able to protect the members of my
+76212 own fleet… I’m such a terrible woman。
+
+
+
+76213 いいんです！
+76214 いいんです、生身の人間の限界です…
+76213 It’s okay！
+76214 It’s okay、everyone has their limits…
+
+
+76215 この先に脱出艇があるそうです。
+76216 お二人で逃げて下さい。
+76217 フェリペ提督を死なせないで下さい！
+76215 There’s an escape ship further ahead。
+76216 The two of you should escape。
+76217 Please don’t let Admiral Felipe die！
+
+
+76218 …………
+76219
+76218 …………
+76219
+
+
+
+76220 　　とすっ…
+76220 　　Thwack…
+sound effect????
+
+76221 うっ…！？
+76222
+76221 Ugh…！？
+76222
+
+
+76223 　　どさっ。
+76223 　　Thump。
+
+76224 ただ口を閉ざしていたローザの前で、
+76225 フェリペの手刀を受けた部下は気を失い、倒れた。
+76224 The person in front of Rosa falls silent、
+76225 Felipe’s right hand man collapses, unconscious。
+
+
+
+
+
+
+
+76226 ふぅ…来たばかりで悪いが、ローザ…
+76227 この男を脱出艇に積むのを
+76228 手伝ってくれないか。
+76226 ふぅ…来たばかりで悪いが、ローザ…
+76227 Help me load this guy
+76228 into the escape ship。
+
+
+76229 ＣＯＲＥが来るのも時間の問題だ、
+76230 急げ、と言っているのに、
+76231 とんだ強情者なのだ、ふははっ…
+76229 It’s only a matter of time till the
+76230 CORE arrives, hurry、と言っているのに、
+76231 とんだ強情者なのだ、ふははっ…
+It’s like he said, I’m a rather stubborn person, fuhaha
+
+76232 ええ…
+76233 それが終わったら、貴方は止血を。
+76232 Yes…
+76233 それが終わったら、貴方は止血を。
+Indeed, stubborn to the very last drop of blood,
+
+76234 そして、少しでも長く戦い抜きましょう…
+76235 イスパニアの誇りと、
+76236 私たちの愛にかけて。
+76234 And let’s fight a little longer
+76235 on the pride of Espana
+76236 through our love.
+Suggested:
+ Even for a little while longer, let us fight
+For the pride of Espana
+and our sworn love for each other
+
+
+
+
+76237 ああ――
+76237 Aaah!!
+Yeah-... 
+Context above is more of a statement of agreement rather than an exclamation. Will check in game
+ 
+
+
+
+76238
+76239 　　ドガーーンッ！！
+76240 突然、激しい爆発音が響き、地面が揺れた。
+76238
+76239 　　BOOM!!
+76240 Something exploded and the ground shook.
+Suggested: 
+76240 A sudden resounding explosion shook the ground.
+
+A sudden explosion reverberated nearby and the ground shook
+
+76241 うぐっ、格納庫か…！？
+76242 くそっ、奴等につきとめられたのか！
+76243 フェリペ！
+76244 せめて、彼をどこかに隠して――
+76241 Ugh、was that the hangar!?
+76242 Shit, were those guys able to track us down!?
+76243 Felipe!
+76244 We need to at least hide him somewhere!
+
+76245
+76246 　　ぱすっ…
+76247 ！！
+76245
+76246 　　ぱすっ…
+76247 ！！
+
+
+76248 やけに軽い発砲音の直後、
+76249 ローザが背負おうとしていた部下の男の額に
+76250 赤い穴が開いた。
+76248 A dreaded flash followed by the sound of gunshot.
+76249 A gaping red hole formed on the forehead of 
+76250 the suboordinate Roza was carrying on her back
+
+
+76251 ロレンツォ！！
+76251 Lorenzo！！
+
+76252 おお、手配データで見た顔だぜ。
+76252 おお、手配データで見た顔だぜ。
+
+
+76253 大物はっけーん。
+76254 ローザ…
+76255 君は、逃げ隠れする気はないのだな。
+76256 ええ。
+76257 やっぱり貴方は、私の一番の理解者ね。
+76258 そうか、ならば――
+76259 フェリペは剣を抜き、ローザはショットガンを構えて
+76260 ＣＯＲＥへ向けた。
+76261 下劣な機械人間めが！
+76262 我らの誇りを喰らえ！
+76263 おっ、死ぬ覚悟ってやつか？
+76264 勝手に盛り上がられても困るんだよなァ…
+76265 セットで生け捕りにしたら
+76266 褒美が10倍って言われてるんだからよ。
+76267 何ッ！？
+76268 フェリペ！！
+76269
+76270 　　シューーーーッ…
+76271 フェリペに向けられたＣＯＲＥの指先から
+76272 何らかのガスが噴射され、
+76273 それはすぐにローザの元にも届いた。
+76274 う……あぁっ……
+76275
+76276 　　どさっ…
+76277 二人は意識を失い、その場に倒れた。
+76278 へっへっ…
+76279 確かに、こんな上玉、犬死にされたら
+76280 もったいねぇからな…
+76281 ダンナはお前用の人質だぜ。
+76282 死ぬ前に、夫婦で地獄を見てきな。
+76283 ヒャーッヒャッヒャッヒャ！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+Credit to Tsibble 
+lines 62058 -62236 - The hanitora sex scandal event. 
+N.b. Will check ingame
+-------------------------------------
+
+
+62058 海軍司令部――
+62058 The Imperial Navy Headquarters――
+
+62059 うっ…ううっ…
+62059 Ow…oww…
+
+62060 便秘ならひとみちゃんに浣腸でもひとつ。
+62060 Constipating? Do you need an enema?
+
+62061 胃が痛いんです。
+62061 No, I just have a stomach ache.
+
+
+62062 だったらひとみちゃんに胃薬を――
+62062 Then ask Hitomi-chan for some――
+
+
+62063 あなたのせいです。
+62063 This is your fault.
+
+
+62064 いつもの事じゃないか。
+62065 いい加減慣れたら…
+62064 Must be really serious then; since
+62065 you're used to my usual anticts…
+
+
+62066 秋山は苦虫を噛みつぶしたような顔で、
+62067 東郷にずいっと写真を突きつけた。
+62066 With a sour look on his face, Akiyama
+62067 shoved a photo in front of Toudou.
+
+
+62068 「ほう」
+62068 「Oh」
+
+
+62069 「ほう、じゃないです」
+62069 「At least act a little more concerned！」
+
+62070 「よく撮れているな」
+62070 「This is really well taken.」
+
+62071 「感心するところはそこですか」
+62071 「So instead you praise them.」
+
+
+62072 ばらまくと脅迫されていたのだが、
+62073 本当にばらまいたのか。
+62072 I thought they were only bluffing,
+62073 but they really did release them.
+
+62074 いや、感心感心。
+62074 I'm impressed.
+
+62075 You shouldn't be praising them for this.
+62075 感心するのはそこでもないです。
+
+62076 というか感心しないでください。
+62076 In fact, stop praising them at all.
+
+62077 いい大人が写真一枚で何――
+62077 Hey, whatcha guys looking at――
+
+62078 ぶっ!!!!!!
+62078 Bu!!!!!!
+
+62079 見ただけで田中は鼻血を出した。
+62079 Tanaka's nose begins to bleed.
+
+62080 お子様には刺激が強かったか？
+62080 Was that too much for an innocent mind？
+
+62081 ちょ！　ま！　な！
+62081 Wha！　Tha！　Isn't！
+
+62082 ちょっと待て、
+62082 Let me guess. "Tha shit ain't cool！"
+
+
+
+62083 なんてものを撮られてんだよと言われても
+62084 よく撮れてるだろ？　としか。
+62083 Regardless, I still think it's a
+62084 good shot.
+
+
+62085 今ので田中提督が何を言いたかったか
+62086 わかるあなたを素で尊敬しますよ。
+62085 I have newfound respect for you for
+62086 talking like that
+
+62087 んー、どれどれ？
+62087 Hm. What's going on？
+
+62088 あっははは！！　局部もばっちり！！
+62088 Ahhh！They even got your Johny！！
+
+62089 何やってんだよ、ダンナ！
+62089 Gosh！
+Check ダンナ reference in game
+
+62090 どんくさいなぁ！
+62090 What are you doing、Tougou！
+
+62091 はっはっはっ。
+62091 Hahaha。
+
+62092 やられたなぁ。
+62092 They really got me good。
+
+62093 あっははは！
+62093 Arrgh！
+
+62094 あーもう、顔までこんなにばっちりでさー。
+62095 ひー、くるし。
+62096 …ネット検索してみました。
+62094 Really now. They even
+62095 got your face clearly。
+62096 …This is all over the net。
+
+
+62097 『東郷と謎の中帝国っ子の生ハメ画像』
+62097 『Tougou romps Mysterious Chun』
+62098 １９４７件ヒット。
+62099 なかなかの人気だな。
+62098 It already has 1947 likes。
+62099 Quite popular I see。
+
+
+62100 謎の中帝国っ子ファンサイト…
+62100 It's on some shady Chun fansite…
+
+62101 日本では５００以上。
+62101 500 of the likes were Japanese。
+
+
+62102 この子、ものすごく人気ですよ？
+62102 Maybe that girl is really famous？
+
+62103 この画像で何度セルフごちそうさましたか
+62104 数を競う専用ＢＢＳとかもあります。
+62103 This photo has also spread over
+62104 "self-service" sites and private BBS's.
+
+
+62105 セルフごちそうさま？
+62105 "Self-service" site？
+
+
+62106 ぶっちゃけるとオナニーです。
+62107 はっはっはっ。
+62106 To put it simply: a masturbation site。
+62107 Hahaha。
+
+62108 おさかんなことだ。
+62108 What an inspiring photo。
+
+62109 …もう勝手にしてください…
+62109 …I don't care anymore…
+
+62110 むっ。
+62110 Ugh。
+
+
+
+
+62111 東郷の写真は通路や食堂の壁にまで貼られていた。
+62112 まったく。
+62111 Stuck to every wall and alley was the photo.
+62112 Good grief。
+
+62113 秋山は発見した写真を
+62114 ぶつぶつ言いながらはがした。
+62115 これで何度目か本人も把握していない。
+62113 Whilst grumbling, Akiyama
+62114 tore every photo he could find
+62115 
+
+62116 放置していてもいいんだぞ。
+62116 Leave it. It's fine。
+
+62117 そんな訳には――
+62117 But I can't――
+
+62118 東郷さん！
+62118 Tougou-san！
+
+62119 ああ、ミサキ。
+62119 Ah、Misaki。
+
+62120 もう…どじっちゃいましたねぇ。
+62120 T-this…is quite a mess isn't it。
+
+62121 ミサキは少し照れたような困ったような顔をして
+62122 写真を見せた。
+62121 Misaki's face tinged red as
+62122 she caught sight of the photo。
+
+62123 おや。
+62124 君まで知ってしまったか。
+62123 Oh dear。
+62124 I've been found out。
+
+62125 街にもネットにも溢れかえってますよ。
+62126 でも、配布のされ方が
+62127 なんだか意図的な気がするんですけど…
+62125 Well, it's all over the net and streets。
+62126 It is almost as if this was done
+62127 on purpose…
+62128 ああ、その通り。
+62128 Ah, that's correct。
+
+62129 ミサキは聡いな。
+62129 You're such a smart girl。
+
+62130 東郷はにっこり笑ってミサキの頭を撫でた。
+62130 Tougou gently brushed Misaki's glowing face。
+
+62131 あんっ…もう。
+62131 Aahn…Really now。
+
+62132 これくらいわからなくてどうするんですか。
+62132 Well, how are you planning on fix this。
+
+
+62133 そうなんだ。
+62134 わかってないんだ。
+62133 How indeed。
+62134 I honestly have no idea。
+
+62135 こんな事をするとどうなるか、彼女は…
+62136 ？？
+62135 I wonder what ever happened that girl…
+62136 ？？
+
+
+62137 ふふふふふ…
+62137 Fufufufufu…
+
+62138 日本に侵入し、次は日本の誰を狙おうか
+62139 企んでいるハニトラの姿があった。
+62138 Hanitora infiltrates Japan, plotting
+62139 mischief against her target.
+
+
+
+62140 こちらの言う事をきかなかった報いよ。
+62141 日本鬼子長官。
+62140 I'm going to make you suffer,
+62141 you bastard minister.
+
+
+62142 布団に潜ってひんひん泣くといいわっ！
+62142 I can't wait to see you cry！
+
+
+62143 さーて、次は誰がいいかな…
+62143 Now、who should I go after…
+
+62144 東郷の側近の秋山か、田中か
+62145 それとも宇垣かー…
+62144 Tougou's aide Akiyama, Tanaka,
+62145 or maybe Ugaki…
+
+62146 ああああーーー！
+62146 Ahhhーーー！
+
+62147 へっ！！？？
+62147 Wha！！？？
+ 
+
+62148 謎の中帝国っ子だーー！！！
+62148 It's the Mysterious Chunーー！！！
+62149 オタクっぽい外見の青年が
+62150 ハニトラを指さし大声をあげた。
+62149 The otaku shouts and points at
+62150 Hanitora。
+
+62151 はぁぁぁぁ？？？？
+62151 Ehhhh？？？？
+
+62152 うおおおお、本当だー！！
+62153 本物だーーー！！！！
+62152 Woaw、you're rightー！！
+62153 It's really herーーー！！！！
+
+62154 俺、あんたで何回ヌいたかー！！
+62154 I've jerked off to her so many times！！
+
+62155 さらに別のオタクっぽい青年がやって来て、
+62156 ハニトラの足下にずささーっと滑り込んできた。
+62155 Other otaku begin crowding around
+62156 Hanitora。
+
+
+
+62157 なんなのよ、あんた達ーーー！！！
+62157 What's going on、why are youーーー！！！
+
+62158 あんたの画像、
+62159 日本のどこにでもあるからなー。
+62158 Well, your face is all over
+62159 Japan。
+
+62160 へっ！？
+62160 Eh！？
+
+62161 ほらほら、あんな感じ。
+62161 Yeah、Like that。
+
+
+62162 青年が指さした先の壁には
+62163 写真が何枚もずらーっと並べて貼ってあった。
+62162 The man points to an uncountable
+62163 amount of photos stuck to the walls。
+
+62164 …………
+62164 …………
+
+62165 きゃ…きゃーー！！！！！
+62166 なんなの、これーーー！！！！
+62165 Kya…Kyaーー！！！！！
+62166 What the hellーーー！！！！
+
+62167 中帝国のスパイ部門が必要以上に張り切って
+62168 ネットだけでなく、町中のいたるところに
+62169 写真を貼って回っていたのだ。
+62167 The Chun Empire's spy department exceeded
+62168 expectations by not only spreading the photo
+62169 all over the net, but also all over downtown。
+
+62170 俺、ファンサイト立ち上げてる一人ですー！
+62170 I'm starting a fansite！
+
+62171 是非、一緒に写真をー！！
+62171 Please, let me take a picture with--！！
+
+
+
+62172 い、いやよ！
+62173 どうしてそんなっ…！
+62172 N-No！
+62173 How did it end up like this…！
+
+62174 足を舐めさせてくださーーーい！！
+62175 パンツくださーーーい！！
+62174 I want to lick your legs！！
+62175 Please Hanitora-chan！！
+
+62176 いやぁぁぁ！！！
+62177 日本人って、みんなロリで変態ーーー！！！
+62176 Noooooo！！！Japan is full
+62177 of loliphiles and pervertsーーー！！！
+
+
+62178 町中に貼られた写真は、確認されているだけで
+62179 万を超える数となっていた。
+62178 Downtown was slowly being overrun by people
+62179 who heard that the Mysterious Chun was there。
+
+62180 ネットにアップされた画像のダウンロード数は
+62181 計り知れず。
+62180 After all, the photo had been viewed tens of
+62181 thousands of times。
+
+62182 そのノーカット画像は多くの若者…
+62183 特に男性の宝物であり、夜のお友達となっていた。
+62182 そのノーカット画像は多くの若者…
+62183 特に男性の宝物であり、夜のお友達となっていた。
+
+62184 ハニトラは今や日本で一番有名な女性と
+62185 なってしまっていた。
+62184 Now Hanitora had become Japan's
+62185 most famous woman。
+
+62186 有名になりすぎたハニトラは
+62187 日本で活動出来なくなってしまった。
+62186 However that fame also prevented Hanitora
+62187 from doing anything in Japan。
+
+
+62188 中帝国、王宮――
+62188 The Chun Empire, the Imperial Palace―
+
+
+62189 は、にゃ、にゃーん☆ﾐ
+62189 Nya nyaan☆ﾐ
+
+62190 見て見て、ダーリン。
+62190 Look look、Darling.
+
+
+62191 だいせいこーう！
+62192 ははははは！！
+62191 I did it！
+62192 Hahahahaha！！
+
+62193 見事な破廉恥写真だな。
+62194 でしょー？
+62193 Such excellent scandalous photos.
+62194 Right？
+
+62195 局部もバッチリ☆ﾐ
+62195 And the privates are perfect☆ﾐ
+
+62196 まったく…どの日本人もこんな
+62197 つまらん手に簡単にひっかかりおって…
+62198 恥を知れ。
+62196 Really… Japanese people are so
+62197 easy to control once you have
+62198 something shameful on them.
+
+62199 今回の日本提督は特に軽いらしいですし。
+62200 かなり簡単にひっかかったし、
+62201 えっちも慣れてましたよー。
+62199 This admiral was especially easy.
+62200 And he was really experienced you
+62201 know.
+
+62202 首尾は？
+62202 How are things proceeding？
+
+62203 はーい、バッチリ☆ﾐ
+62203 Perfectly☆ﾐ
+62204 いつものように画像を添付した
+62205 脅迫メールを送信してまーす。
+62204 Like before, we've sent our little
+62205 blackmail message.
+
+
+62206 この写真ばらまかれたくなかったら
+62207 あたし達のいう事きいてねって
+62208 書いておきましたよ！
+62206 We've told him that unless he wants
+62207 these photo's released, he must
+62208 join us.
+
+
+62209 よし。
+62209 Excellent.
+
+62210 樋口と末山もこーして
+62211 陥落させましたしねー。
+62212 同じようになるんじゃないかな？
+62210 Higuchi and Sueyama both fell
+62211 for this plan after all so I'm sure
+62212 it'll work again.
+
+62213 あ…きたきた。
+62213 Ah！It's here.
+
+
+62214 返信きましたー。
+62214 He finally sent his reply.
+
+
+62215 さっそく確認しろ。
+62215 Tell me his response.
+
+
+62216 はーい。
+62216 'Kay.
+
+62217 ………
+62217 ………
+
+
+62218 ………………
+62218 ………………
+
+
+62219 へっ！？
+62219 Eh！？
+
+
+
+62220 どうした？
+62220 What's wrong？
+
+
+62221 あー…えーっと…
+62221 Ah… Ummm…
+
+
+62222 『お好きにどうぞ』って…
+62222 『Do as you please』it says…
+
+62223 は？
+62223 What？
+
+62224 だから、好きにしていいって…
+62224 He said we can do as we like…
+
+62225 東郷という男は、
+62226 このようなものをばらまかれても、
+62227 恥ずかしくないというのか！？
+62225 You are telling me that this Tougou
+62226 is fine with us spreading these
+62227 embarrassing things！？
+
+
+62228 んー…強がりかも？
+62228 Hmm… Do you think he's bluffing？
+
+
+62229 この男は我々をなめているのか！！
+62229 Does he take me for a fool！！
+
+62230 んーんー…
+62230 …
+62231 そうかも…
+62231 Maybe…
+
+62232 ふっ…くくっ…いいだろう。
+62232 Fu…Kuu…Fine then.
+
+
+62233 我らの恐ろしさをみせてやる。
+62233 We shall show him despair.
+
+
+62234 ハニトラ。
+62234 Hanitora.
+
+
+62235 はーい。
+62236 ではスパイ部門にそう報告しまーす☆ﾐ
+62235 Yes. I will tell our spies
+62236 to prepare the report☆ﾐ
+
+****last line******
+
+----------
+Credit to Tsibble:
+Lines 60541-60566 - ???event? I’m not sure which event. Issit the ninja one?
+-----------------
+
+60541 ふむ…
+60542 コンニャクの方がましだな。
+60541 Hmm…
+60542 This new admiral prefers konjac I see.
+
+
+60543 なかなか興味を引かれる逸材だな。
+60543 That is a rather interesting hobby.
+original line - That is a rather interesting talent.
+
+60544 秋山。これはお前の趣味か？
+60544 Akiyama. Are you into this kind of thing？
+
+60545 もう俺がいる必要はないな。
+60545 It looks like I might be out of a job.
+
+
+
+60546 へローワークにいそうな顔だ。
+60546 Quite the disciplined face.
+
+
+60547 ああ、昨日は世話になったな。
+60547 If only the admiral arrived yesterday.
+
+
+60548 構わないが、こいつの本業はいいのか？
+60548 Isn't this job kind of shady？
+Aren’t you concern? Are you sure about this job?
+
+
+
+60549 風呂に入るよう伝えてくれ。
+60549 Get this person to take a bath.
+
+
+60550 まずはトイレ掃除からだな。
+60550 Assign the admiral janitor duty.
+
+60551 ５０人くらい欲しいな。
+60551 I want 50 of this.
+
+60552 パーフェクトだ。
+60552 Perfect ！
+
+
+60553 どこの世界から来たんだ。
+60553 Where in the world did this guy come from？
+Original line - What world did you find this guy ？
+
+
+60554 白米が好きそうな顔をしてるな。
+60554 That is a rice loving face.
+correct but I don’t understand the context.
+
+
+60555 チェンジだ。
+60555 Change ！
+
+
+60556 よし、秋山と交代だ。
+60556 Good, it's your replacement.
+Alright, you can be Akiyama’s substitute.
+
+60557 真希の遊び相手になって貰おう。
+60557 Maki has a new playmate.
+
+60558 よし、来週、野球大会を開こう。
+60558 We've found our new opening batter.
+Ok/Alright, Next week we will open a baseball tourney?????
+
+
+60559 田中のライバル登場だな。
+60559 Tanaka's rival has appeared.
+
+60560 一度、お手合わせしたいものだ。
+60560 I want to challenge this person.
+
+
+60561 腐女子に受けそうだな。
+60561 Likely popular with the girls.
+
+
+60562 秋山。この人と付き合うといい。
+60562 Akiyama, you should date this person.
+Original line - Akiyama you are to date this person 
+
+60563 …そう評価しますか。
+60563 Of all things…
+
+
+60564 とにかく今後、我が軍の提督として
+60565 頑張って貰いましょう。
+60564 At any rate, the admiral will join
+60565 our forces.
+
+Anyway, join our ranks and lets work together
+
+
+60566 ああ。
+60566 Right.
+
+***last line****
+
+
+
+
+
+------------
+credit to Tsibble
+lines 119449 - 119485 - Post-coital glow with Hanitora
+-------------
+119449 はぁ…
+119449 Haa…
+
+119450 小柄なハニトラは、
+119451 東郷の腕にぶら下がるかのように
+119452 縋りついたままだ。
+119450 Hanitora's small form
+119451 clung to Tougou's arm.
+119452 
+
+
+119453 すごかったぁ…
+119453 That was amazing…
+
+
+119454 ハニトラはまだ熱の残った頬と
+119455 潤んだ瞳をしている.
+119454 Hanitora's face was still flushed
+119455 after their earlier tussle.
+Tussle - lol nice
+
+
+119456 はっはっはっ。
+119457 そんなに褒められると照れるな。
+119456 Hahaha. Receiving such high
+119457 praise is making me embarrassed.
+
+
+119458 ううん、ほんとほんと。
+119459 まだ足ががくがくしてるの。
+119460 歩きにくい…
+119458 No really. My legs are still
+119459 weak that I'm having trouble
+119460 walking…
+
+
+
+
+
+119461 悪いな。
+119462 もっと満足させてあげたいが、
+119463 俺にあまり時間がなくてね。
+119461 That's unfortunate. I really
+119462 wanted to satisfy you more,
+119463 but sadly I don't have the time.
+Suggested: I’m sorry/My bad
+
+119464 ううん…
+119465 お兄さんみたいなテクニシャンと
+119466 えっち出来て嬉しかった。
+119464 I'm just happy that I got
+119465 to do it with such a skilled man.
+119466 
+
+No, I am completely happy with ‘onii-san’s echhi technique
+
+119467 ハニトラは、ほにゃっと微笑んでみせた。
+119467 Hanitora gave Tougou a coy smile.
+
+119468 はっはっはっ。
+119468 Hahaha.
+
+
+119469 東郷は笑いながらハニトラの頭を
+119470 そっと撫でると額にキスをした。
+119469 Tougou gently took Hanitora's
+119470 head in his hands and kissed her brow.
+
+
+119471 それじゃあ。
+119472 送ってくれてありがとう。
+119473 魅力的で可憐なお嬢さん。
+119471 Well. Thank you for taking
+119472 the time to indulge me, you
+119473 sweet and charming young lady.
+
+119474 ううん…いいの。
+119474 It was nothing. 
+
+
+119475 これくらい。
+119476 今からあたしがする事考えたら…ね。
+119475 After all…
+119476 Now I have work to think about.
+
+119477 ん？
+119477 Hm?
+
+119478 ううん、なんでもなーい。
+119478 Nothing nevermind.
+No, it’s nothing~
+
+
+119479 ハニトラは名残惜しそうに
+119480 東郷の腕から離れた。
+
+119479 Appearing reluctant, Hanitora
+119480 releases Tougou's arm.
+Original line - Let go of Tougou’s arm
+
+
+119481 ばいばい。
+119481 Bye-bye.
+
+119482 ああ、さようなら。
+119482 Right, take care.
+
+119483 二人は手を振って別れた。
+119483 Waving goodbye, they went their separate ways.
+
+119484 …………
+119484 …………
+
+119485 うっふふ☆ﾐ
+119485 Fufufu☆ﾐ
+
+****last line*****
+
+-----------------
+Credit to Tsibble
+Lines - 68976-69044 - Hanitora’s capture
+---------------
+
+68976 中帝国、王宮――
+68976 The Chun Empire, the Imperial Palace―
+
+68977 んー…
+68977 Nnnー…
+
+68978 どうしたの？
+68979 ダーリン。
+68978 Is something wrong？
+68979 Darling。
+
+
+68980 物足らん。
+68980 This is not enough。
+
+
+68981 やっぱり帝とセックスしたい。
+68981 I desire sex with Mikado。
+
+
+68982 …今、私としたばっかだってのに
+68983 そんな事、普通言う？
+68982 …Is that what you'd normally say
+68983 to the woman you've been doing？
+I’m standing right here and you say that?
+
+
+
+68984 ほんと、この人馬鹿だわ。ばかばーか。
+68984 You fool。Stupid Idioooot。
+
+68985 っていうか、しっつれー！
+68986 デリカシーなさすぎっ。
+68985 He is so tactless！
+68986 
+
+68987 それに比べて、東郷は…
+68988 日本を征服してからのお楽しみと
+68989 思っていたが、我慢出来ん。
+68987 And in comparison、Tougou is…
+68988 I had thought I could wait until
+68989 we conquered Japan, but I cannot。
+
+68990 お前、日本に行って帝をさらってこい。
+68990 You, go to Japan and bring me Mikado。
+
+68991 えっ…そんなぁ！
+68991 Eh…That's impossible！
+
+
+
+68992 私、例の写真のおかげで
+68993 日本での活動は無理で…
+68992 Thanks to that photo, I can't
+68993 do anything without being recognised…
+
+68994 ハニトラ。
+68995 朕はなんだ？
+68994 Hanitora。
+68995 Who am I？
+Who do you think I am?
+
+68996 っ…中帝国の…皇帝…
+68996 Th…The Emperor…of Chun…
+
+68997 わかっているのなら、やれ。
+68997 If you know then do as I say。
+
+68998 ぐっ…
+68998 Gu…
+
+68999 はははは！！
+68999 Hahaha！！
+
+69000 最初から
+69001 お前に任せておけば良かったな。
+69000 I know I can always
+69001 count on you。
+
+69002 …………
+69002 …………
+
+69003 日本首都――
+69003 The Japanese Capital――
+
+
+69004 そんな事言われても…
+69004 Even if he tells me to…
+
+69005 なんとか日本に潜入したハニトラだが…
+69005 Somehow Hanitora was able to infiltrate Japan…
+
+69006 うわーーん！！
+69006 Aaaargh！！
+Uwaaaaa
+
+69007 まだ貼ってある！！
+69007 They're still all over！！
+
+69008 やだ、もぉぉぉ！！
+69008 N-no mooore！！
+I don’t like this anymore!!!
+
+69009 さっそく壁に貼られている写真を見つけた
+69010 ハニトラは、叫びながらそれを破り取った。
+69009 Everytime Hanitora sees one of the photos,
+69010 she feels like screaming.
+
+69011 くっ…！
+69012 明鏡止水、明鏡止水っ…！！
+69011 Ku…！I'm in my happy place.
+69012 Happy place、happy place…！！
+
+69013 なんとかここまで忍び込めたけど、
+69014 帝ってどこにいるのかしら。
+69013 I've somehow made it here without
+69014 being seen, but where is Mikado？
+
+69015 そこまでの資料って厳しすぎて
+69016 手に入らなかったのよね。
+69015 We've never been able to get any
+69016 of that kind of information。
+
+69017 んー…
+69017 Mmnnn…
+
+69018 まずは警備室に入り込んで…
+69018 First I'll find a security…
+
+69019 ん？
+69019 Hm？
+
+69020 あ゛。
+69020 Ah。
+
+69021 謎の中帝国っ子！
+69021 It's the Mysterious Chun！
+
+
+69022 うわーん！！
+69022 Nooo！！
+Uwaaaa!!
+
+69023 その名前で呼ぶなぁぁ！
+69023 Don't call me that！
+
+69024 外国人である君がどうしてここまで…
+69025 ちっ！
+69024 Why is a foreigner like you here…
+69025 Chi--！
+
+
+69026 ハニトラは駆け出した。
+69026 Hanitora quickly runs away。
+
+69027 逃げるとはあやしいという事！
+69027 She's getting away！
+
+69028 侵入者だ！
+69029 警備兵！！
+69028 Intruder！
+69029 Guards！！
+
+69030 はあっ…！　はぁっ…！
+69030 Haaa…！　Haaa…！
+
+69031 そこまでだ！
+69031 Freeze！
+That’s far enough!
+
+
+69032 謎の中帝国っ子！
+69032 Mysterious Chun！
+
+69033 やだやだ！
+69033 Stop Stop！
+
+69034 その名前で呼ばないでぇぇ！
+69034 Please stop calling me that！
+
+
+
+
+
+
+69035 ハニトラは左に曲がり、
+69036 追っ手から逃れようとしたが…
+69035 Hanitora runs around the corner
+69036 evading her pursuers, but…
+
+69037 観念しろ！
+69037 Give up！
+
+69038 謎の中帝国っ子！
+69038 Mysterious Chun！
+
+69039 だからその名前で呼ぶなーー！！
+69039 Really. Stop calling me thatーー！！
+
+69040 よし、謎の中帝国っ子を追い詰めたぞ！
+69040 Alright, We've cornered the Mysterious Chun ！
+
+69041 謎の中帝国っ子、確保ーー！！
+69041 Secure the Mysterious Chunーー！！
+
+69042 あん、もうやだーーーー！！
+69042 No、no moreーーーー！！
+
+69043 こうしてハニトラはシュウ皇帝の命令を完遂出来ず、
+69044 日本に捕らわれてしまった。
+69043 This was how Hanitora failed Emperor Shuu's
+69044 orders and was captured by Japan。
+
+-----------------
+Credit to Tsibble
+lines - 119486 - 119595 - Hanitora’s recruitment
+--------------
+
+119486 迎賓館――
+119486 Inside the Guesthouse――
+
+119487 む～……
+119487 Mu～……
+
+119488 捕らえられたハニトラは、
+119489 ここで軟禁されていた。
+119488 Hanitora had been confined to the Guesthouse.
+119489 
+
+
+119490 外に出ようとしても見張りがついている為、
+119491 どうする事も出来ないでいる。
+119490 Due to being under constant watch、
+119491 Hanitora has been unable to escape。
+
+
+119492 なあ…
+119492 Hey…
+
+119493 ん？
+119493 Hm？
+
+119494 見張りをしている二人は
+119495 ぽそぽそと内緒話をしだした。
+119494 The two guards on watch secretly
+119495 whisper to one another。
+
+
+119496 あの中帝国の子って…
+119496 That Chun kid…
+
+119497 ああ。
+119497 Yeah。
+
+119498 例の写真の子だな。
+119499 持ってるのか？
+119498 She's the one in the photo right。
+119499 Do you have an extra copy？
+
+119500 持ってるよ。
+119500 Of course。
+
+119501 友よ！
+119501 You're a savior！
+
+119502 いやな友だなぁ。
+119502 I would hardly call this saving。
+
+
+119503 でも使ったんだろ？
+119503 But have you "used" it？
+
+119504 まあ…一応…
+119504 Huh…Once…
+
+119505 というか聞こえたらアレだ。
+119506 黙ってろよ。
+119505 Anyway we shouldn't be talking about
+119506 this now.
+
+119507 こんな小声だと聞こえないって。
+119507 She won't be able hear us。
+
+119508 聞こえてるっての。
+119509 スパイなんだから耳いいっての。
+119508 Of course I can hear you。
+119509 I'm a spy after all.
+
+119510 ほら見ろ
+119510 See。
+119511 す、すみません！！
+119511 S-Sorry！！
+
+119512 ったく、もーーー…
+119512 Ugh, Geezーーー…
+
+119513 あーあーもーもー。
+119513 Ah-Ah Geez-- ！
+
+119514 馬鹿ー！！　どいつもこいつも馬鹿ー！
+119514 Idiots！！　A bunch of dumbasses！
+
+119515 と・く・に！
+119515 E・spe・cia・lly！
+
+119516 シュウの馬鹿！！　クズ！
+119517 お前のせいで私はこんな事に！
+119516 Shuu that idiot！！That moron！
+119517 It's all your fault！
+
+119518 ああん、もう、もーーー！！
+119518 Geezーーー！！
+
+119519 うんこうんこーー！！
+119519 That piece of shitーー！！
+
+
+119520 ハニトラはクッションを掴むと
+119521 ばふばふとソファに叩きつけた。
+119520 Hanitora begins ripping the cushion
+119521 and sofa into shreds。
+
+119522 はっはっはっ。
+119523 ご機嫌だな、ハニトラ。
+119522 Hahaha。
+119523 Good day Hanitora。
+
+119524 どこがっっ。
+119524 How is this good！？
+
+119525 繕ってない君も素敵だよ。
+119525 I admire that charming side of yours.
+
+119526 ふん。
+119526 -Pout-
+
+119527 な、何言ってんだか。
+119527 F-Flattery will get your nowhere.
+
+119528 そんな魅力的な君が
+119529 俺の軍に入ってくれると
+119530 もっと嬉しいんだがな。
+119528 It would make me happy
+119529 if such a charming lady like yourself
+119530 would join our forces。
+
+
+119531 ……はぁ？
+119531 ……Wha？
+
+
+119532 レディの君にあんな恥をかかせる
+119533 中帝国なぞ、
+119534 自分から切ってしまうといい。
+119532 I think you can do better for
+119533 yourself by cutting ties with
+119534 the Chun Empire。
+
+
+119535 元はと言えば、
+119536 あんたが脅迫に応じなかったから
+119537 あんな事になったのよー！！
+119535 If you had only surrendered to
+119536 our threats, I wouldn't be
+119537 in this situation！！
+
+
+119538 もっと元を正せば、
+119539 それを命じたのは中帝国…
+119538 Although earlier,
+119539 weren't you blaming the Chun Empire's…
+
+119540 君がうんこと罵っていたシュウ皇帝だ。
+119540 "That piece of shit" emperor。
+
+
+119541 ぐ、ま…まあ…そうだけどー…
+119541 Ah、w…well…yeah butー…
+
+119542 俺は、君にあんな事を命じない。
+119542 I will never order to do those things.
+
+
+119543 っ……
+119543 ……
+
+
+119544 色仕掛けなんかしなくても、
+119544 Like selling your body for the cause.
+
+
+119545 君はもっといいものを持っているはずだ。
+119545 You deserve so much better。
+
+
+119546 そ…そんなの…わからないわよ。
+119547 あなたなんかに。
+119546 A…as if you would know。
+119547 
+
+
+119548 いや、わかる。確信出来る。
+119549 シュウ皇帝の命令でも、
+119550 肌を重ねた仲なのだから。
+119548 No, I do. Unlike Emperor Shuu who
+119549 gives unreasonable orders and
+119550 gives your body, you can trust me.
+
+
+119551 っ………
+119551 ………
+
+
+119552 どうだ？
+119552 Well？
+
+
+119553 ……ふ、ふん…おかしな人。
+119553 …W-Well…You're very peculiar…。
+
+
+
+
+119554 褒めてくれてありがとう。
+119554 Thank you for the compliment。
+
+
+
+119555 ほ、褒めてなんかないわ！
+119555 I-I'm not complimenting you！
+
+
+119556 君が俺のそばにいてくれればいい。
+119557 俺はそれで満足だ。
+119556 As long as you are by my side,
+119557 I would be satisfied。
+
+
+119558 っ…んー……
+119558 …Mnー……
+
+
+119559 んーんーんー…
+119560 んんんんーっ…！！
+119559 MnーMnnーMnnー…
+119560 Mnnnnnnー…！！
+
+
+119561 ハニトラは顔を真っ赤にして、
+119562 東郷の胸に頭突きをした。
+119561 Hanitora's face glows crimson and
+119562 she buries her face in Tougou's chest
+
+
+119563 もう…知らない…
+119563 I…I don't care…
+
+
+119564 はっはっはっ。
+119564 Hahaha。
+
+
+119565 可愛いな。
+119565 You're so cute。
+
+
+119566 私…
+119566 I…
+
+
+119567 変に有名だから、ちゃんと出来るかどうか
+119567 I'm famous for the wrong reasons, so
+
+
+
+119568 わからないわよっ…
+119568 I might not be able to do much…
+
+
+119569 人の噂は七十五日というだろう。
+119570 もう少ししたら出歩きやすくなる。
+119569 "A rumours lasts but 75 days."
+119570 You'll soon be able to go out again。
+
+
+119571 ん、んっ…んーーー！！
+119571 Mn、Mn…Mnnnー！！
+
+
+119572 なんか私、負けっぱなし！
+119572 I can't argue against you！
+
+
+119573 はっはっはっ。
+119573 Hahaha。
+
+
+119574 俺のそばにいる為なら
+119575 それでＯＫじゃないか？
+119574 Being with me has a lot of
+119575 advantages. Is that OK？
+
+
+119576 ん、もう！
+119577 知らない、馬鹿！
+119576 F-fine！
+119577 I don't care you idiot！
+
+
+
+119578 はっはっはっ。
+119579 また褒められたな。
+119578 Hahaha。
+119579 Again with the compliments。
+
+
+
+
+
+119580 褒めてないもんっ！
+119580 I'm not complimenting you！
+
+
+119581 という訳で。
+119581 Now that that's done。
+
+
+
+119582 ん？
+119582 Hm？
+
+
+
+119583 君に艦隊を預けよう。
+119583 I'm giving you a fleet。
+
+
+
+119584 はぁぁぁ？？？？
+119584 Whaa？？？？
+
+
+119585 まあ、頑張ってくれ。
+119585 Well, do your best。
+
+
+
+119586 ちょ！　無理！
+119587 私、艦隊なんか指揮した事ないわよ！！
+119586 Th-That's unreasonable！
+119587 I've never commanded a fleet before！！
+
+
+
+119588 大丈夫。
+119588 It'll be fine。
+
+
+
+119589 何が！！？？？
+119589 How！！？？？
+
+
+
+
+119590 はっはっはっ。
+119591 やれば出来る。
+119592 人には秘めた能力があるかもしれないぞ？
+119590 Hahaha。
+119591 You just have to try. And pretend
+119592 like you know what you're doing？
+
+
+
+119593 ちょっ……！！！
+119594 そんな無茶苦茶だわ！！
+119593 That's……！！！
+119594 That's absolutly crazy！！
+
+
+119595 はっはっはっ。
+119595 Hahaha。
+
+****last line*****
+
+----------------------
+Credit to: Tsibble
+Lines 69163 - 69224 - the death of the Chuu emperor
+-----------------------
+
+69163 とある星域、シュウ皇帝の部屋――
+69163 Emperor Shuu's room――
+
+
+69164 　　ばしっ。
+69164 　　Slap。
+
+
+69165 きゃっ…！
+69165 Kya…！
+
+
+69166 もういい。
+69167 機械的に舐められても、
+69168 勃つものも勃たんわ。
+69166 That's enough。
+69167 Your licking lacks skill. You
+69168 can't even make me hard.
+
+
+
+69169 っ…
+69169 …
+
+
+69170 シュウ皇帝は自分の股間を
+69171 ねぶっていた娘の頬を張ると、
+69172 ベッドの上で、ごろんと横になった。
+69170 Whilst on the bed, Emperor Shuu
+69171 begins to gyrate his hips on
+69172 the girls face。
+
+
+69173 まったく…どうして朕がこのような所で
+69174 この程度の女と
+69175 同衾していなくてはいかんのだ。
+69173 Really…How is it that I must
+69174 live in this pathetic place and
+69175 share my bed with this useless girl。
+
+
+
+69176 ………
+69176 ………
+
+
+69177 ハニトラの奴、何をぐすぐずしている。
+69177 What is taking Hanitora so long?
+
+
+69178 さっさと帝をさらってこい…
+69179 …早く、あの身体を堪能したいものだ…
+69178 Hurry and bring me Mikado…
+69179 …Hurry, only she can satisfy me…
+
+
+69180 シュウ皇帝はニヤリと暗く嗤った。
+69181 あの華奢な肢体をどうにかする事を考えただけで、
+69182 何もしていないのに
+69180 Emperor Shuu grins darkly。
+69181 Just thinking about her delicate and slender
+69182 limbs gives Shuu an erection.
+
+
+
+69183 シュウ皇帝の股間が半勃ちになった。
+69184 ん…おい、つまらん女は女なりに
+69185 もうちょっと頑張れ。
+69186 さっさと舐めるのを続けろ。
+69183
+69184 Ugh…Hey, even though
+69185 you're useless, hurry and
+69186 continue licking me。
+
+
+
+69187 …つまらないのは、貴様の方よ。
+69187 …You're far more useless、you bastard.
+
+
+69188 何っ！？
+69188 What！？
+
+
+69189 っ……
+69189 ……
+
+
+69190 ぐっ…うっ…！？
+69190 Gu…Wa…！？
+
+
+69191 シュウ皇帝の身体がびくびくとひきつりだした。
+69191 Shuu's body begins to shake and spasm.
+
+
+69192 なっ…！？
+69192 Wha…！？
+
+
+69193 そんなシュウ皇帝を尻目に、
+69194 女は水で口腔を濯いでいた。
+69193 Shuu glances at the girl
+69194 who is now rinsing her mouth.
+
+
+69195 き、さま…なっ…
+69195 Y-you…Traitor…
+You bitch...
+
+69196 女は口の中の水を
+69197 無造作に床へ吐きだした。
+69196 The girl casually spits the water onto the bed.
+69197 
+
+
+69198 ふふ…
+69198 Fu Fu…
+
+69199 ぐっ…ああっ…！！
+69199 A…Arg…！！
+Guaaa!
+
+
+69200 貴様っ…毒をっ…！！
+69200 You…Poison…！！
+
+
+69201 そうよ…今、たっぷりとあなたのここに
+69202 塗ってさしあげたわ。
+69201 That's right…Now, I'll take my time
+69202 and coat you in it。
+
+
+69203 女は嬉しそうに嗤い、
+69204 苦渋にひきつっているシュウ皇帝の股間を
+69205 指先で弄んだ。
+69203 The girl laughs menacingly while
+69204 she begins to touch the paralyzed 
+69205 Shuu's lower body。
+
+
+69206 がっ…！
+69206 Ga…！
+
+
+69207 いつまでも偉そうに…
+69208 あんたなんかただの馬鹿ガキじゃないの。
+69207 Always so full of yourself…
+69208 You're nothing but a pathetic brat。
+
+
+69209 なっ…！！！
+69209 Na…！！！
+
+
+69210 あははっ！
+69210 ahaha！
+
+69211 もう身体も動かないでしょ？
+69211 You still can't move right？
+
+69212 でもね…これ、遅効性なの。
+69213 じっくりじわじわ
+69214 死の恐怖を味わうといいわ。
+69212 But you know…it's slow acting。
+69213 So take your time savouring
+69214 the taste of death。
+
+
+69215 あんたに理不尽に殺された者達の気持ちを
+69216 たっぷりと味わって死ぬがいいっ…！！
+69215 I'm going to make you pay for
+69216 killing so many people…！！
+
+
+
+69217 がっ…あああっ…！！！
+69217 Ga…Aaaahhh…！！！
+
+
+69218 あっはは！
+69219 はははは！！
+69218 Ahaha！
+69219 Hahahaha！！
+
+
+69220 ・・・・・・・
+69221 ・・・・・
+69222 ・・・
+69220 ・・・・・・・
+69221 ・・・・・
+69222 ・・・
+
+
+69223 こうしてシュウ皇帝は3時間以上
+69224 苦しみぬいて死んでいった。
+69223 It was 3 hours before Emperor Shuu died.
+69224 
+*****last line******
+--------
+Credit to Tsibble
+Lines 159394-159575 - Japanifaction end - good?
+--------
+159394 世界は日本のもとに統治され、
+159395 ようやく人々は平和という名の安らぎを手に入れた。
+159394 The universe has fallen under Japanese rule、
+159395 and all it's people peacefully conquered.
+
+
+159396 だが、日本による統治が完全に安定するまでには、
+159397 まだ解決せねばならない問題が数多く残されていた。
+159396 However, in order to bring about perfect stability,
+159397 many problems still need to be solved.
+
+
+159398 海軍司令部――
+159398 The Imperial Navy Headquarters――
+
+
+159399 報告します。
+159400 パリ星域でテロ組織アルザムによる
+159401 ワープゲート占領事件が発生しました。
+159399 Here's my report:
+159400 The terrorist group Aluzama have
+159401 taken control of the Paris warp gate。
+
+
+159402 懲りない連中だな。
+159403 早急に駐在艦隊を向かわせろ。
+159404 テロリストの要求は一切呑むなよ。
+159402 They never learn。
+159403 Send in the garrison fleet, and
+159404 do not accept any of their demands.
+
+
+159405 分かりました。
+159405 Understood.
+
+
+
+
+
+
+
+
+159406 他にもロンドン星域で元貴族達が
+159407 「貴族復権の会」を発足。自治権を求め、
+159408 帝との交渉を要求して来ていますが…
+159406 The ex-royalty in the London have
+159407 formed the「Royalty Party」. They wish
+159408 to negotiate autonomy with Mikado.
+
+
+159409 ふむ…こちらで断るのは簡単だが、
+159410 ここは帝ちゃんの判断を仰ぐか。
+159409 I see…It would be easier to refuse them、
+159410 but we should let Mikako-chan decide。
+
+
+159411 御所に連絡を。
+159411 Connect me to the Imperial Palace.
+
+
+159412 はっ。
+159412 Yessir。
+
+
+159413 　　ザザッ――
+159413 　　 **static**――
+
+
+159414 はい、貴族復権の会のことですね。
+159415 その件なら聞いてます。
+159416 任せて、こちらで処理しておきますから。
+159414 Yes, about the Royalty Party。
+159415 Leave it to me. I'll meet with them and
+159416 come to a decision.
+
+
+159417 では、よろしく。
+159418 口だけは達者な連中なので、
+159419 それだけはお気をつけて。
+159417 Then I'll leave it in your hands.
+159418 They have skilled talkers so
+159419 please be careful。
+
+
+159420 ふふ…はいっ。
+159420 Fufu…'Kay。
+
+
+159421 世界では未だ日本による統治への反抗勢力が存在し、
+159422 国内でも新たな権力を得ようと企む者達が多くいた。
+159421 There still exists many who oppose Japanese rule.
+159422 Even domestically, political powers vie for power.
+
+
+159423 それらを収めるべく、
+159424 帝と東郷は多忙な日々を送っていた。
+159423 In order to prevent them,
+159424 Mikado and Tougou work tirelessly everyday。
+
+
+159425 そんなある日…
+159425 On one of those days…
+
+
+159426 …柴神様。
+159426 …Shibagami-sama.
+
+
+159427 いま、なんと？
+159427 What is it？
+
+
+159428 うむ…であるから、
+159429 長い間、帝としての役目、
+159430 ご苦労であったと。
+159428 Yes…For a very long time
+159429 I have burdened you with the
+159430 duty of being the empress.
+
+
+159431 …私を帝の任から解くと仰るのですね。
+159431 …You mean you're releasing me right。
+You’re referring to my relinquishing of my duties
+
+159432 そうだ。
+159432 That's correct。
+
+
+
+
+
+
+159433 そなたは今まで本当に頑張ってくれた。
+159434 その身を限界まで酷使してまで…
+159433 You have worked hard all this time,
+159434 but your body is reaching its limit…
+
+
+159435 新しい帝と交代するがよい。
+159436 …正直、私はそなたを帝の責務から
+159437 もう解放してやりたいのだ。
+159435 It would be best to find a replacement
+159436 soon…Truthfully, I have wanted to  
+159437 release much sooner.
+
+
+
+159438 柴神様…
+159438 Shibagami-sama…
+
+
+159439 日本の為とはいえ、
+159440 今まで多くの苦労と不自由をさせてきた…
+159441 本当にすまぬ。
+159439 I beg your forgiveness for not only
+159440 leaving Japan's fate to you, but also
+159441 for the hardships you have endured.
+
+159442 これからはゆっくりと…
+159443 普通の女の子としての幸せを見つけるのが
+159444 よかろう。
+159442 From now on…
+159443 Discover your own happiness
+159444 in life as a normal woman.
+
+
+
+159445 普通の女の子としての幸せ…ですか？
+159445 Is the life of a normal woman…happy？
+
+needs rephrasing, specifically - 普通の女の子としての幸せ should be consistent.... i think.. - torky
+
+
+
+
+159446 うむ…今まで帝の制約に縛られ、
+159446 Yes…Without the restrictions of duty.
+
+
+159447 叶えられなかった願いがあるだろう？
+159447 Even you have desires you want right？
+
+
+
+159448 それは…はい、あります。
+159448 That's…Yes、I do。
+
+
+159449 私の普通の女の子としての願いは…
+159449 My wish for a normal life is…
+
+
+159450 帝は目を瞑ると、静かに言葉を続けた。
+159450 Mikado closes her eyes, and continues。
+
+
+159451 そう…好きな人の子を産み、
+159452 沢山の子供達や孫達に囲まれ、
+159451 Is to…have my loved one's child and
+159452 be surrounded by children.
+
+
+159453 平凡だけど幸せな毎日を送ること…
+159453 It's simple, but the happiest for me…
+
+
+159454 それはよい願いであるな。
+159454 That is a splendid wish.
+
+
+
+
+159455 では、これからはその願いを叶える
+159456 為に――
+159455 Then, in order to bring about
+159456 your――
+
+
+159457 いえ…いいのです、柴神様。
+159457 No…It's fine. Shibagami-sama.
+
+
+159458 いい…とは？
+159458 Are…you sure？
+
+
+
+159459 それはどういう…
+159459 Why would you…
+
+
+159460 だって私…まだ帝としての願いを
+159461 叶えてませんから。
+159460 After all…I still haven't granted
+159461 my wish as Mikado yet.
+
+
+
+159462 幼き日のあの願い…か。
+159462 The wish made that day…
+
+
+
+159463 だが、日本が世界を統治したことで、
+159464 それは充分叶えられたのではないか？
+159463 But, Japan reigns over everything now.
+159464 Surely that is more than enough？
+
+
+159465 いえ…日本が世界を統治した今も、
+159466 争いは未だなくなっておりません。
+159465 No…Japan may reign, but
+159466 strife and conflict still exist。
+
+
+
+159467 苦しんでいる子供達は、今も大勢います…
+159468 柴神様が新しく帝として選ばれた子も、
+159469 そんな子達の一人なのでしょう？
+159467 Many children are still suffering…
+159468 Even the children that you select to
+159469 be emperor are orphans right?
+
+
+159470 うむ…インドカレーで
+159471 戦災孤児となった娘だ。
+159470 Yes…There's a girl in Indo
+159471 Curry that is a war orphan。
+
+
+159472 たしか今年で11歳になるはずだ。
+159472 She should be 11 this year。
+
+
+159473 …きっとその子も、
+159474 あの時の私と同じような想いをして
+159475 きたのですよね…
+159473 …I'm sure that girl has
+159474 also experienced similar hardships
+159475 that I did then…
+
+
+159476 それも帝候補として選ばれる条件の
+159477 一つであるからな…
+159476 That is also one of the conditions
+159477 to be chosen as a candidate…
+
+
+159478 なら…その子には、
+159479 帝になるより、普通の女の子として
+159480 幸せになって欲しいです。
+159478 Then…instead of becoming empress,
+159479 I wish for that girl to live a happy
+159480 normal life.
+
+
+
+
+
+
+
+159481 そなた…
+159482 自身の幸せは望まぬというのか？
+159481 You…You're willing
+159482 to give up your own happiness？
+
+
+
+
+159483 もちろん望みますよ。
+159484 でも…幸せの形はいろいろですから。
+159483 That is what I desire. Because…
+159484 Happiness comes in many forms。
+
+
+
+159485 それに…柴神様。
+159486 私は幼かった頃の辛い境遇を
+159487 今ではよかったことだと思ってます。
+159485 Also… Shibagami-sama.
+159486 I think it was for the best that
+159487 I was raised in a painful enviroment.
+
+
+159488 辛い気持ち…悲しい気持ち…
+159488 Bitter feelings…Sad feelings…
+
+
+159489 そんな中、人の優しさに触れることが
+159490 どれだけ嬉しく、幸せであるかを
+159491 心から知ることが出来ましたから…
+159489 Because of those feelings, I can
+159490 truly appreciate the happiness
+159491 people's kindness can bring.
+
+
+159492 私が今までどんなに辛くても
+159493 帝を続けることが出来たのは、
+159494 その経験があったからこそです。
+159492 Those experiences allow me
+159493 to persevere through any
+159494 hardships I may suffer as Mikado.
+
+
+
+
+159495 そうだ…
+159495 I see…
+
+
+159496 深い悲しみを知るものこそ他人の悲しみも
+159497 理解することが出来る…
+159496 Since you've known grief, you can
+159497 relate to those who have also…
+
+
+159498 でも…だからこそ一つだけ…
+159499 帝は恋人も…親しい友人すら
+159500 作ってはいけない制約が一番辛かった
+159501 です…
+159498 But…Even then…
+159499 The most painful thing as Mikado
+159500 was not being allowed to make
+159501 friends or find love…
+
+159502 であろうな…
+159502 Of course…
+
+
+159503 それは幼き日のそなたが心から望んだ
+159504 ものであったのだから…
+159503 That has been your dream since
+159504 you were a child…
+
+
+159505 はい。でも…そんな私を
+159506 東郷は救ってくれました。
+159505 Yes. But…Tougou
+159506 was able to grant that dream.
+
+
+159507 感謝します、柴神様。
+159508 東郷のことを許してくれて…
+159507 I'm truly grateful for that.
+159508 So please, forgive him Shibagami-sama.
+
+
+
+
+159509 いや…あの男は、特別だった。
+159510 なにより誰かの一人になれる男ではない。
+159509 That man is special. There is
+159510 no human quite like him.
+
+
+159511 そなたでさえも…
+159511 Except for you of course…
+
+
+159512 分かってます。
+159513 だからこそ私は東郷を…
+159512 I know he is. 
+159513 That's why I… Tougou...
+tougou’s name mentioned - prolly they are makennn babbehhs. I didn’t get this ending when I played so I dunno the scenario n cg - torky
+
+159514 …ならよい。それに、
+159514 …That's fine.
+
+159515 あのような生き方の出来る人間は
+159516 私が見てきた人間の中でも滅多におらん。
+159515 Although I have never seen a human
+159516 that capable and that reckless.
+
+
+159517 くすっ…ですから私、
+159518 限界まで帝を引き受けようと思うんです。
+159517 Fufu…That's why I'll continue
+159518 bearing my duty as Mikado.
+
+
+
+159519 しかし…
+159519 But that's…
+
+
+
+
+
+
+
+
+
+159520 はい…もちろん、
+159521 それが自己満足に過ぎないことは
+159522 承知しております。
+159520 Don't worry.
+159521 I won't abuse this opportunity.
+159522 
+
+
+159523 それでも私が帝を続けることで、
+159524 次に帝になる子を少しでも減らして
+159525 あげられます。
+159523 Additionally, I'll be able to let the
+159524 next Mikado have more time
+159525 at a normal life.
+
+
+159526 ですから、柴神様。
+159527 私が元気なうちは、柴神様が帝候補に
+159528 選んだ子は、みんな幸せにしちゃいます。
+159526 That's why Shibagami-sama,
+159527 I'll stay healthy and make everyone
+159528 including the next candidate happy.
+
+
+159529 いいですよね？
+159529 That's okay with you, right？
+
+
+159530 ……………
+159531 ふ…ふははっ、そうかそうか。
+159530 ……………
+159531 Ha…hahaha. Is that so?
+Suggested : Fu.. Fuhahah, I see, I see
+Suggested : Fu.. Fuhahah, I get it
+
+
+
+
+159532 まったくどこまでも頑固で優しい娘よな、
+159533 そなたは。
+159532 Really, you're always such a 
+159533 stubborn yet kind girl.
+
+159534 …分かった。
+159534 …Fine。
+
+
+159535 そなたの意思を尊重しよう。
+159535 I will respect your wishes.
+
+
+159536 ありがとうございます、柴神様。
+159536 I am very grateful, Shibagami-sama.
+Thank you, Shibagami-sama
+
+
+159537 だが…そなたの選んだ道は辛く険しいぞ。
+159537 Although…This road is long and difficult.
+
+
+159538 途方もなくな…
+159538 Don't lose your way…
+
+
+159539 …大丈夫ですよ。
+159540 私はもう独りではありませんから…
+159539 …It will be okay,
+159540 because I'm no longer alone…
+
+
+159541 そうか…
+159542 そうであったな。
+159541 That's true…
+159542 You no longer are.
+
+
+159543 そんなわけで、東郷。
+159544 私、これからも帝を続けていくことに
+159545 決めました。
+159543 Therefore Tougou,
+159544 I have decided to continue being
+159545 Mikado.
+
+
+159546 そうですか。
+159546 I see.
+
+
+
+159547 ま、帝ちゃんならそうするだろうとは
+159548 思ってましたよ。
+159547 Well, I had figured you might
+159548 come to that decision.
+
+
+
+159549 では、東郷。これからも私と
+159550 頑張って頂けますか？
+159549 Anyway, I trust you'll
+159550 continue doing your best？
+
+
+
+159551 ええ。もちろんです。
+159551 Yes, of course.
+
+
+
+159552 よかった。
+159552 Great!
+
+
+
+159553 じゃあ、私がおばあちゃんになるまで
+159554 一緒ですね。
+159553 I guess we'll be together for
+159554 a long time then.
+
+
+
+159555 おっと…出来れば早めに引退して、
+159556 年金生活を楽しもうかと思って
+159557 いたのですが…
+159555 I was originally planning to
+159556 retire early and live happily
+159557 off my pension…
+
+
+
+159558 ま、女の子とした約束は、
+159559 絶対に守るのが俺の主義です。
+159558 But, it's a rule of mine to
+159559 always keep my promise with a girl.
+
+
+
+159560 いいでしょう。こうなれば年金だけでなく、
+159561 娘に充分な遺産を残せるまで頑張りますよ。
+159560 Very well. Then I'll do my best to leave
+159561 my daughter a massive inheritance.
+
+
+
+159562 くすっ…東郷らしい返事ですね。
+159562 Fufu…A very typical response.
+
+
+159563 ふ…
+159563 Heh…
+
+
+159564 …では、帝。
+159565 貴方が背負う日本という荷物…
+159566 私にも半分背負わせて頂きましょう。
+159564 …Well then Mikado.
+159565 Please allow me to take on half
+159566 of your burden.
+
+
+159567 東郷…
+159567 Tougou…
+
+
+159568 どうです？
+159568 How was that？
+
+
+159569 少しは軽くなりましたか？
+159569 Is your burned lighter now？
+
+
+159570 はい…はいっ！
+159570 Yes…Yes！
+
+
+159571 はっはっはっ、それはよかった。
+159571 Hahaha, then I'm glad。
+
+
+159572 いつもと変わらぬ陽気な声で、東郷が笑う。
+159572 And as his usual cheery self, Tougou laughs.
+
+
+159573 それは背負った荷物がどれほど重かろうと、
+159574 微塵も感じさせないタフな漢の笑顔であった。
+159573 That was the laugh of a man who
+159574 could take any burden, heavy or small.
+
+------Incomplete-------

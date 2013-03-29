@@ -13,27 +13,27 @@ News from the front - Vardest, one of the ppl from the original team  has inform
 Hopefully, once finalised, it would look good enough to be used but for now lets just work on getting the CORE chapter done
 
 2. Writing styles in comparison to the original translator is of concern.
-This, I’m afraid, was my main worry. As we all have our own ways of phrasing and writing, consistency would probably be the hardest thing to achieve in this collaborated effort. We will need to discuss the best way to achieve style consistency with the original team’s work - hopefully we can do this in the near future. 
+This, Iï¿½m afraid, was my main worry. As we all have our own ways of phrasing and writing, consistency would probably be the hardest thing to achieve in this collaborated effort. We will need to discuss the best way to achieve style consistency with the original teamï¿½s work - hopefully we can do this in the near future. 
 Although consistent writing style is imperative, our main objective is to complete the CORE chapter translations. We will focus on consistency once the bulk of our work is done.
 
 3. Quote from Vardest which applies to everyone working on this:
-“Just remember that it takes a LOT of work to get this stuff done”
-“Zorn was going at a very fast pace, and we still only got to 35%”
+ï¿½Just remember that it takes a LOT of work to get this stuff doneï¿½
+ï¿½Zorn was going at a very fast pace, and we still only got to 35%ï¿½
 We will strive for completion but with time and patience. There is no rush to get this pushed out of the door. So work at your own pace.
 
-
+q
 #Comments/Edits/Notes Start Here:
 
 - Special thanks to Tsibble for his hard work. All of your work posted - Hanitora awesomeness! 
-I took all the lines from your progress.txt file - tell me if I’ve missed some coz it looks like there’s more for the japanification good end thing you did last.
+I took all the lines from your progress.txt file - tell me if Iï¿½ve missed some coz it looks like thereï¿½s more for the japanification good end thing you did last.
 
 -----------------------------
 Current editors/contributors:
 - TJ(Torky) - backstory event turn 2 complete (its very rough, needs ALOT of work)
-Currently on 76134 - fighting the spanish. it’s VERY long
+Currently on 76134 - fighting the spanish. itï¿½s VERY long
 Apologies, will get back on it tomorrow when I get my software and script back on new cpu
 
-- vyrox123 - Translated some parts during Espana got attacked, check around there for details, haven’t been doing as much as I’d like to because of school. Espana parts reviewed - have given suggestions
+- vyrox123 - Translated some parts during Espana got attacked, check around there for details, havenï¿½t been doing as much as Iï¿½d like to because of school. Espana parts reviewed - have given suggestions
 
 - Nellie *slacking much*
 	

@@ -1,5 +1,6 @@
-﻿UDTlD edit branch?
-=====
+﻿=======
+﻿UDTlD 
+=======
 
 Welcome to the Unofficial Daiteikoku Translation Division on Github!!
 

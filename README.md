@@ -1,7 +1,9 @@
-UDTlD
+﻿UDTlD copyedit branch
 =====
 
 Welcome to the Unofficial Daiteikoku Translation Division on Github!!
+
+will file be overwritten?
 
 Please wait while I organise the stuff nice and proper and try plan this all out...
 

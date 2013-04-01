@@ -44,3 +44,10 @@ Our Primary Objective:
 	All H-scenes in CORE chapter
 
 Thankfully, there’s very little story lol. Alot of NSFW h-scenes though!
+
+
+Important updates:
+Mastercopy edited text has been split into chapters, according to events that happen in game to make it less messy. 
+Japanese text and English text is now separated into two different files for each chapter
+### *Filename_E* --> English Edits
+### *Filename_R* --> Reference for edits

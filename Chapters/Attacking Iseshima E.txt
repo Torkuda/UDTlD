@@ -1,0 +1,54 @@
+
+----------------------
+Turn 1 Story event on attacking Ise-shima (spain)
+lines 76134 - 76161
+-------------------------
+76134 Ise Shima Star Region――
+76135 A temporary truce had been made in this airspace、
+76136 Felipe’s hologram appears。
+hologram can be replaced with projection - Check main translations for consistency
+
+
+76137 Rooooossaaaaa！
+76138 Can you hear me, my dear wife！！
+76139 Felipe’s calls are answered、
+76140 Rosa’s hologram appears。
+76141 Yes…
+76142 I hear you Felipe。
+76143 Finally、CORE has begun
+76144 their invasion on our star region。
+76145 Although they are bloodless machine people。
+76146 Yes, those guys haven’t a scrap of
+76147 nobility... how disgusting。
+
+‘disgusting’ interchangeable with ‘filthy’
+
+
+76148 Our hometown、the hot wind of Carribean、
+76149 Those guys musn’t defile our land。
+我らが故郷を、カリブの熱風を- must refer to main story and verify
+
+
+76150 Rosa, Isn’t it time to work together？
+76151 Let’s stop this civil war and be husband and wife together.
+
+76151 Stop this civil war, we should be united。
+Lost context - They as a couple should be united. rephrase?
+
+
+76152 Our Espanian pride will drive those
+76153 dogs back to where they came from。
+76154 FuFu…
+76155 I was about to say the same thing。
+76156 As you’d expect from my husband。
+
+I expected nothing less from my husband.
+
+76157 Yes, Lets fight together… with passion。
+76158 I love you, my dear。
+76159 I love you too, from the bottom of my heart。
+76160 Our love will bloom the
+76161 flower of victory. Ol?！
+
+
+********last line***********

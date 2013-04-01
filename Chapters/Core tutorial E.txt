@@ -1,0 +1,30 @@
+__________________________________
+
+169487 + 159827 - 159842  = Core Tutorial
+-------------------------------
+
+169487 Would you like to read the King Core Manual?
+159827 In King Core mode, the objective is to 
+159828 occupy all star regions.
+159829 Some of the rules are different from the main story
+159830 1. There is no HP recovery: 
+159831 　Stationing in star regions and Repair shops
+159832 　also do notrecover HP
+159833 2. HP is decreased but attacking is still possible: 
+159834 　All original units’ HP are decreased and will never invade
+159835 　King Core is not affected by this rule
+
+2. HP is decreased but attacking is still possible: (Units in) Original story HP has been decreased and they will never invade. King Core is not affected by this rule
+
+159836 3. There is no star region income, building or research:
+159837 　The warships you start with are the only ones you have,
+159838 　make full use of them.
+159839 4.If King Core’s HP reaches 0, Game over:
+159840 　Keep careful watch on his HP 
+159841 　when using him in battles.
+159842 This is the end of the manual.
+
+
+***last line****
+
+_____________________________________________________

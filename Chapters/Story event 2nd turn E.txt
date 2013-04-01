@@ -1,0 +1,171 @@
+
+--------------------------------------------------------------
+Story Event - Turn 2 start Lines 73300 - 73397 
+-----------------------------------------------------------------
+
+73300 ＣＯＲＥ Ruled region――
+73301 This way... my liege。
+73302 Have you secured the area？
+73303 Yes…
+73304 The rebels have been swept up
+73305 and the local populace expelled。
+73306 Good, I knew I could leave it to you。
+73307 I’m gonna take a small stroll around。
+73308 Understood…
+73309 Please be careful…
+73310 Come、Let’s go。
+73311 …………
+73312 The two leave Truman behind and proceed to the ruins。
+
+??test ingame - ? shorten
+
+73313 While they walked, the horizon was lit ablaze
+73314 by fresh fires and screams still filled the air 
+73315 from the continued mass murder。
+73316 That Truman fellow…
+73317 He’s quite a show off isn’t he。
+73318 Ah……
+73319 Princess stopped abruptly
+73320 Her gaze fixed on the edge of the road。
+73321 Hm？
+73322 King Core followed her gaze, there stood 
+73323 a young boy. He was looking right back at them。
+73324 The boy’s knees were trembling and shivering、
+73325 but his eyes were burning with anger。
+73326 What’s with that expression？
+73327 Hahaha！
+73328 Have we murdered your parents？
+73329 Shut up！　You fuckin mom killer！
+73330 Punk ass kid…
+73331 That reminds me, do I actually have time to do that…
+
+prolly wrong
+
+73332 …………………
+73333 Ugh…………You bastard！！
+73334 The boy threw a rock at King Core。
+73335 A small sound was made as the rock hit King Core
+73336 and fell to the ground。
+
+ rephrase
+
+
+73337 …………
+73338 Normally he would’ve killed him on the spot、
+73339 but instead, King Core barely took a step。
+73340 Fu- Fuck！
+73341 He was angry at King Core、
+73342 it was fury, rather than a show of courage。
+73343 The boy turned heel and ran away。
+73344 ……………
+73345 …………？
+73346 Princess tilted her head to one side in confusion,
+73347 then looked at King Core’s face。
+73348 King Core saw a ghost。A ghost
+73349 of the past. During a time when 
+73350 he was a boy, when he was still human――
+73351 ・・・・・・・
+73352 ・・・・・
+73353 ・・・
+73354 Lincoln, That was his name。
+73355 As a kid, he always got into fights、
+73356 no kid could lay a hand on him。
+73357 He was innately talented. Proficient in
+73358 martial arts and brash, he would challenge
+73359 his seniors and adults
+rephrase
+
+
+73360 Even his abusive parents daren’t
+73361 scold him. They thought he was
+73362 a demon.
+Even his abusive parents daren’t scold him. They suspected him to be a demon
+
+73363 The neighbourhood boys admired him, It was befitting
+73364 he became gang leader but no one knew how he truly felt。
+rephrase
+
+
+73365 In reality, no one respected him。
+73366 恐ろしいだけだ。
+Unnecessary statement ???? - How horrible/dreadful
+
+
+73367 I have no one to truly love and care for。
+73368 だが、出る杭は打たれる。
+idiom - best policy is to keep your head down
+suggested But it’s best to avoid such trouble?????
+
+
+73369 自分よりも前に進む者が若ければ若いほど
+73370 反発は強い。
+?Profound quote
+Suggested: It is better to keep moving forward when young than to fight back
+Suggested: The younger the person is when he moves forward, the greater the repulsion 
+Suggested ;The more a young person pushes forward, the more you have to push against.
+Suggested; It is better to accept and move on rather than to linger.
+
+
+73371 At the tender age of 8, he was sent to 
+73372 a juvenile reformatory for assault. 果たして因果は巡る…
+73373 The director whom he had assaulted was his father。
+Very difficult to fit all info in 3 lines. 
+果たして因果は巡る- 
+One deed deserves another.
+What goes around comes around.
+Every action comes with an opposite reaction
+At the tender age of 8, he was sent to a juvenile reformatory for assault. Like how one deed deserves another... the director of the school whom he had assaulted was his father.
+
+
+73374 The director abused his power. 
+73375 Little Lincoln believed he was treated unfairly。
+73376 Never given enough food, struck with a whip。
+Left to starve, struck with a whip
+
+
+73377 Still,  he remained resilient which subjected him to 
+73378 further abuse. He carved a tattoo in a shape of a mouse on his back
+Again, alot of stuff to fit in to 2 lines. Must shorten and rephrase
+
+Still,  his facial expression remained resilient which subjected him to further abuse. He carved a tattoo in a shape of a mouse on his back
+
+
+73379 However, this was a fortunate event。The director got 
+73380 fired after a prison guard outed him for holding a personal grudge and assault the boy
+Again, alot of stuff to fit in to 2 lines. Must shorten and rephrase
+
+
+
+73381 Lincoln’s penalty was reduced and eventually was released。
+SHORTEN GODDAMNIT
+
+
+
+73382 Now a free man, before returning home, he raided the
+73383 ex-director’s home and relentlessly brutalised the man。
+shorten, rephrase
+73384 Due to this incident, no one dared to take action 
+73385 against Lincoln as they feared retribution。
+Rephrase. Vengeance can be used instead of retribution 
+
+
+
+73386 より凶悪な菌をその身に浴びせられ、
+73387 ラット<鼠>は世界に放たれたのだ。
+No clue - I think it’s a creative way to say a terrible person has been released into the world.
+Suggest: Worse than the most heinous bacteria being poured on, the rat was set loose into the world. 
+
+
+73388 …………
+73389 …………Was that a dream?…
+73390 I guess I haven’t had enough sleep
+might be wrongly translated
+73391
+73392 　　Ratatatatatat！
+73393 「Uaaaahーっ！！」
+73394 The sounds of gunshot ringed from behind them、
+73395 the shriek that followed resembled the boy who ran 。
+73396 …………Lets go。
+73397 …………
+
+******last line*****

@@ -107,7 +107,6 @@ It’s not the angel of death calling
 76224 The person in front of Rosa falls silent、
 76225 Felipe’s right hand man collapses, unconscious。
 
-
 76226 ふぅ…来たばかりで悪いが、ローザ…
 
 
@@ -166,41 +165,52 @@ A sudden explosion reverberated nearby and the ground shook
 76249 A gaping red hole formed on the forehead of 
 76250 the suboordinate Roza was carrying on her back
 76251 Lorenzo！！
-76252 おお、手配データで見た顔だぜ。
+76252 Oo, I saw this face in the scan data。
+76253 Big-shot found
+
+rephrase
 
 
+76254 Roza…
+76255 Looks like you didn’t try to escape。
+76256 Yes。
+76257 You are the one who understands me most, after all。
+76258 I see、if that’s the case――
+76259 Felipe draws his sword while Roza loads her shotgun
+76260 pointed at the CORE。
+rephrase?
 
-76253 大物はっけーん。
-76254 ローザ…
-76255 君は、逃げ隠れする気はないのだな。
-76256 ええ。
-76257 やっぱり貴方は、私の一番の理解者ね。
-76258 そうか、ならば――
-76259 フェリペは剣を抜き、ローザはショットガンを構えて
-76260 ＣＯＲＥへ向けた。
-76261 下劣な機械人間めが！
-76262 我らの誇りを喰らえ！
-76263 おっ、死ぬ覚悟ってやつか？
-76264 勝手に盛り上がられても困るんだよなァ…
-76265 セットで生け捕りにしたら
-76266 褒美が10倍って言われてるんだからよ。
-76267 何ッ！？
-76268 フェリペ！！
+
+76261 Vile machine-men！
+76262 Come and face our pride！
+76263 Oh? So ready to die?
+76264 Getting so excited about it is a real bother…
+76265 I’m told that the reward for capturing
+76266 you alive is 10 times bigger
+?rephrase?
+
+
+76267 What！？
+76268 Felipe！！
 76269
-76270 　　シューーーーッ…
-76271 フェリペに向けられたＣＯＲＥの指先から
-76272 何らかのガスが噴射され、
-76273 それはすぐにローザの元にも届いた。
-76274 う……あぁっ……
+76270 　　Shuuuuu…
+76271 Some sort of gas is propelled from the CORE’s 
+76272 fingers towards Felipe, which 
+76273 quickly reaches to Roza’s location。
+requires QC, and rephrase
+
+
+76274 Uu……ahhh……
 76275
-76276 　　どさっ…
-76277 二人は意識を失い、その場に倒れた。
-76278 へっへっ…
+76276 　　Thump…
+76277 The two lose consciousness and collapse
+76278 He He…
 76279 確かに、こんな上玉、犬死にされたら
 76280 もったいねぇからな…
-76281 ダンナはお前用の人質だぜ。
-76282 死ぬ前に、夫婦で地獄を見てきな。
-76283 ヒャーッヒャッヒャッヒャ！
 
 
+76281 Your husband is now held hostage。
+76282 If you die first, your spouse will see you in hell。
+76283 Hyahyahyahyahyah！
 
+***last line***

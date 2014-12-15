@@ -1,48 +1,20 @@
-﻿=======
-﻿UDTlD 
+UDTID
 =======
+__Welcome to the Unofficial Daiteikoku Translation Division on Github!!__
 
-(b)Welcome to the Unofficial Daiteikoku Translation Division on Github!!(/b)
+#Overview
+The goal of this project is the complete translation of the visual novel [Daiteikoku by Alicesoft](https://vndb.org/v3066).
 
-Please wait while I organise the stuff nice and proper and try plan this all out...
+The translation effort is in two flavors:
+* [Google Docs](https://docs.google.com/document/d/1QVuw_t-di22--IKIzPdcvi-dE3QZAKGkkkfFoFaOciU/edit?usp=sharing)
+* Github
 
-Ok, I'm a little noob with github but I think I got stuff sorted.
-
-This is a pilot migration from googledocs in hopes to improve the flow of work for this translation project. 
-
-Although I personally like the synchronous access and discussion googledocs has, it has some difficulty notifying active changes unless users of the document are actively indicating their change.
-
-Rules for edits in repository:
-
-1a. All lines are still organised similar to googledocs:
-#(line no. on txt file) Original Japanese text
-#(line no. on txt file) Draft translation
-
-#Comments, remarks, feedback, suggested alternatives of above line
-
-I think Github gives people the option to comment or discuss on changes to the text without directly editing the file. If this is possible, please input via that medium rather than directly to the text.
-
-
-b. If you plan on editing and changing something HIGHLIGHT IT "#######" lots of hashtags so I am able to see the changes if I miss out or forget about the commit. I will review the final draft (when it's completed) and remove any unaddressed hashtag when the time comes
-
-
-2. The 'master' branch is now the main backup and should NOT be changed in anyway. I've created an 'Edit' branch where all changes and updates will be retained. The 'master' branch will merge with 'Edit' at regular intervals to prevent work loss and provide an extra source to revert to if there are severe technical issues.
-
-**In other words, all updates are on 'EDIT' branch
-
-
-3. Important updates, or things you WANT me to see or address must be written in the UPDATES.txt file located in repository. Accessible to anyone who wants to make a shoutout. I will not review or revert anything put in here
-
-4. If Github doesn't do it, don’t forget to put your name on where your comments are so I know who the fuck I’m talkin to!
-
-5. Lets keep this ball rollin and aim for 100% full translation!
-
-___________________________________________________________________
+Contribution is open to everyone.
 ----------------------
-Our Primary Objective:
+__Our Primary Objective:__
 ----------------------
-1. To completely translate the CORE chapter. This includes:
-	Story and events in CORE chapter
-	All H-scenes in CORE chapter
+To completely translate the CORE chapter. This includes:
+* Story and events in CORE chapter
+* All H-scenes in CORE chapter
 
 Thankfully, there’s very little story lol. Alot of NSFW h-scenes though!
